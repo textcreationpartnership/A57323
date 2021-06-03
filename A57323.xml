@@ -1,0 +1,827 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The rights and priviledges of the city of London, proved from, prescription, charters, and acts of Parliament also the coronation oaths of several of the Kings of England, together with some arguments to enforce on all great men their duty of acting agreeable thereunto, and to the known laws of the kingdom.</title>
+         </titleStmt>
+         <extent>Approx. 128KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57323</idno><idno type="EEBO-CITATION">11893665</idno>
+  <idno type="VID">50494</idno>
+  <idno type="EEBO-PROQUEST">2240912112</idno>
+  
+            <idno type="STC">Wing R1513</idno>
+            <idno type="STC">ESTC R182734</idno>
+            <idno type="OCLC">11893665</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A57323)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50494)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 508:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The rights and priviledges of the city of London, proved from, prescription, charters, and acts of Parliament also the coronation oaths of several of the Kings of England, together with some arguments to enforce on all great men their duty of acting agreeable thereunto, and to the known laws of the kingdom.</title>
+               </titleStmt>
+               <extent>[2], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Johnson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Another issue has imprint: London : Printed for R. Baldwin, 1682.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">London (England) --  Charters, grants, privileges.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:50494:1"/>
+            <p>THE <hi>Rights and Priviledges</hi> OF THE City of London, PROVED From
+<list>
+                  <item>Prescription,</item>
+                  <item>Charters, and</item>
+                  <item>Acts of Parliament.</item>
+               </list>
+            </p>
+            <p>ALSO <hi>The Coronation Oaths</hi> Of several of the Kings of England.</p>
+            <p>Together with Some Arguments to enforce on all Great Men their Duty of acting agreeable thereunto, and to the known Laws of the Kingdom.</p>
+            <q>
+               <p>Veritas abscondi erubescit, nihil enim magis metuit quam non profer<g ref="char:EOLhyphen"/>ri in publicum, vult se in Luce collocari, &amp; quis illam occulat occultetve, quam omnium oculis expositam esse est aequissimum?</p>
+               <p>Eatenus ratiocinandum donec veritas inveniatur, ubi inventa est Veritas, ibi figendum Judicium.</p>
+               <bibl>
+                  <hi>Co. 10. Rep.</hi> in Pref.</bibl>
+            </q>
+            <p>
+               <hi>LONDON;</hi> Printed for <hi>J. Johnson,</hi> 1682</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:50494:2"/>
+            <pb n="1" facs="tcp:50494:2"/>
+            <head>THE <hi>Rights and Priviledges</hi> OF THE City of LONDON.</head>
+            <p>TIS certainly the Duty of all Men at all times, to exert their <hi>utmost Abilities</hi> for the Happiness and Peace of <hi>that Country</hi> in which they are <hi>born,</hi> and to shew their <hi>warmest Affections</hi> in the maintenance and Defence of its just <hi>Rights</hi> and <hi>Priviledges,</hi> especially when they find how malicious and unwearied the Endeavours of some Men are to bring the most <hi>ancient,</hi> as well as <hi>glorious Consti<g ref="char:EOLhyphen"/>tutions,</hi> under Contempt and Ignominy, and by that means, with a more plausible Colour, and greater Facility, utterly to <hi>destroy</hi> and <hi>dissolve</hi> them.</p>
+            <p>May we not fear there are too many such resolved and de<g ref="char:EOLhyphen"/>sperate Persons among Us, that industriously labour to effect the <hi>utter Subversion</hi> of <hi>LONDON</hi>'s great <hi>IMMƲNITIES,</hi> the <hi>Antiquity</hi> of which, I may be bold to say, comes not in <hi>Arrear</hi> to any Citie's in the World.</p>
+            <p>LONDON, <hi>the Epitome of</hi> England,<note place="margin">
+                  <p>
+                     <hi>Dr.</hi> Chamberlain<hi>'s Pr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>sent State of</hi> Eng<g ref="char:EOLhyphen"/>land, <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                     <hi>Part,</hi> 11 <hi>Edit.</hi> Anno 1682. <hi>p.</hi> 176, 178.</p>
+                  <p>Inter Recorda Mic. 14. <hi>H.</hi> 6.</p>
+                  <p>Civita London est Antiquissima &amp; Li<g ref="char:EOLhyphen"/>berrima Civitas Do<g ref="char:EOLhyphen"/>mini Regis &amp; Regni Angliae, &amp; Camera Regis vulgariter nuncupata.</p>
+               </note>
+               <hi>the Seat of the British Empire, the Chamber of the King, and the chiefest Emporium, or Town of Trade in the World; wherein all the Blessings of Land and Sea, and (by the benefit of Shipping) all the Blessings of the Terre<g ref="char:EOLhyphen"/>strial Globe, may be said to be enjoyed, above any City in the World.</hi>
+            </p>
+            <p>Whoever therefore are the quarrelsome Enviers of <hi>LONDON</hi>'s long enjoyed <hi>Customes,</hi> and <hi>Franchises;</hi> whoever would <hi>violently ravish</hi> from this Metropolis of the Kingdom, those mighty Bles<g ref="char:EOLhyphen"/>sings, her <hi>Jurisdictions</hi> and <hi>Priviledges,</hi> (whilst as yet at least it cannot be boasted, that she hath forfeited them by Law) those are the Persons against whom I cannot but be affected with Grief, Resentment, and (I think I am pardonable, if I add too) a zealous Indignation; and indeed a less Concern I should hardly know how well to answer for, since I am obliged to this <hi>August City,</hi> for its being the <hi>Place</hi> both of my <hi>Nativity</hi> and <hi>Education,</hi> and as so, it justly commands all my dutiful Regards. The Sword that was at his Father's Throat made a dumb Son once to speak; and shall a Man that hath any <hi>true English Blood</hi> run<g ref="char:EOLhyphen"/>ning
+<pb n="2" facs="tcp:50494:3"/> in his Veins, see the <hi>violent</hi> and <hi>unnatural Attempts</hi> of some dissolute angry Citizens upon the <hi>Priviledges</hi> of the <hi>City,</hi> which are the <hi>Bowels</hi> of their <hi>Mother,</hi> and upon her Life and Being too, and yet be silent! I could never bring my self to <hi>Mecenas</hi> his cowardly love of Life, which <hi>Seneca</hi> justly despises, <hi>Vita dum superest, bene est, hanc mihi vel acutâ si sedeam Cruce, susti<g ref="char:EOLhyphen"/>net.</hi> A meer Being here (me thinks) is not so pleasurable as to make me fond on't, unless I could enjoy it with its <hi>comfortable Ap<g ref="char:EOLhyphen"/>pendages;</hi> and what is sufficient to make the <hi>Remains</hi> of <hi>Life</hi> any ways gustful to that <hi>miserable Man,</hi> whose fate it should be to <hi>survive</hi> the <hi>Wreck</hi> of his <hi>native</hi> Country, and <hi>beloved City?</hi>
+            </p>
+            <p>If the open and bold Invasions that have of late been made by some Persons upon the <hi>Rights</hi> and <hi>Liberties</hi> of this <hi>Renowned City,</hi> (in manifest and bare-fac'd <hi>Contempt,</hi> not only of its <hi>ancient Ʋsages, Laws and Customs,</hi> but of the very <hi>Laws</hi> of the <hi>Land</hi>) have been carried on and promoted by any of the Citizens, let them be of what Rank or eminent Quality soever; it is highly demonstrative, that such Citizens have both <hi>forgotten</hi> the <hi>Duties</hi> of their <hi>Place,</hi> renounced all Truth and Honesty, and have little less than <hi>perjuriously</hi> broken all the Obligations of of their<note n="*" place="margin">The Oath of every Freeman of the City of <hi>Lon<g ref="char:EOLhyphen"/>don.</hi>
+               </note>
+               <hi>Oaths,</hi> solemny taken in the Presence of God, Angels, and Men, as <hi>Freemen,</hi> or as Persons of a more <hi>exalted Character,</hi> to keep and defend the <hi>Antient Laws, Ʋsages, and Customs of the City.</hi> And what does any good Man think can less de<g ref="char:EOLhyphen"/>serve,<note place="margin">Ye shall swear, that ye shall be good and true to our Soveraign Lord King <hi>Charles,</hi> and to the Heirs of our said Soveraign Lord the King. Obeysant and obe<g ref="char:EOLhyphen"/>dient ye shall be to the Mayor and Mi<g ref="char:EOLhyphen"/>nisters of this City. <hi>The Franchises and Customs thereof ye shall maintain, and this City keep harmless in that that in you is.</hi> Ye shall be contributary to all manner of Charges within this City, as Summons, Watches, Contributions, Taxes, Tallages, Lot and Scot, and to all other Charges, bearing your part as a Freeman ought to do. Ye shall colour no Forrein Goods under, or in your Name, where<g ref="char:EOLhyphen"/>by the King, or this City might, or may lose their Customs or Advantages. Ye shall know no For<g ref="char:EOLhyphen"/>reiner to buy or sell any Merchandize with any other Forreigner within this City or Franchise there<g ref="char:EOLhyphen"/>of, but you shall warn the Chamberlain thereof or some Minister of the Chamber. <hi>Ye shall implead or sue no Freeman out of this City, whilst you may have Right and Law within the same City.</hi> Ye shall take no Apprentice, but if he be free-born, that is to say, no Bond man's Son, nor the Child of any Alien, and for no less term than for Seven Years, without Fraud or De<g ref="char:EOLhyphen"/>ceit; and within the first Year ye shall cause him to be enrolled, or else pay such a Fine as shall be reasonably imposed upon you for omitting the same; and after his Term's end, within convenient time (being required) ye shall make him free of this City, if he have well and truly serv'd you. Ye shall also keep the King's Peace in your own Person. Ye shall know no Gatherings, Conventicles nor Conspiracies made against the King's Peace, but ye shall warn the Mayor thereof, or let it to your Power. All these Points and Articles ye shall well and truly keep according to the Laws and Customs of this City to your Power. So God you help.</note> than, when a convenient Opportunity may occur, for ever to be <hi>disfranchised</hi> from those <hi>excellent</hi> and <hi>highly to be valued Priviledges,</hi> to which they are, and have been such avowed, as well as abhorred Enemies? for <hi>these</hi> are the <hi>real Disturbers of the King's Peace,</hi> and the <hi>Violaters</hi> of those most <hi>admirable Laws,</hi> that, if religiously observed, and submitted to, would preserve Us all in Order and Harmony, and make 'em no longer angry with those that dare not run with them into the same Lavishes and excess of Riot.</p>
+            <pb n="3" facs="tcp:50494:3"/>
+            <p>The <hi>Citizens</hi> ought to behave themselves as one <hi>entire Body</hi> and <hi>Person,</hi> and not to be <hi>Divided</hi> upon any Pretences what<g ref="char:EOLhyphen"/>soever into <hi>Parties</hi> and <hi>Factions,</hi> to <hi>destroy</hi> their Immemorial and <hi>Charteral Rights;</hi> because <hi>no Man,</hi> according to the <hi>Laws</hi> of the <hi>Land,</hi> is bound to <hi>discover</hi> wherein he is <hi>Criminal,</hi> and lies obnoxious to Penalties to be inflicted: <hi>None</hi> by Law is <hi>ob<g ref="char:EOLhyphen"/>liged</hi> to shew the <hi>defect</hi> of his <hi>Title</hi> to any thing, neither is <hi>any one bound to discover</hi> any <hi>Act</hi> he hath done, whereby to make himself <hi>liable</hi> to a <hi>Forfeiture</hi> of his <hi>Estate; Nemo tenetur prodere seipsum,</hi> is a Rule in Law: Therefore <hi>Citizens and all Freemen being obliged by their solemn Oaths to maintain the Liberties of the City and defend them,</hi> that must certainly be intended in a <hi>legal sense</hi> and way. And admit particular Citizens have <hi>done</hi> any <hi>Act,</hi> or <hi>committed</hi> any <hi>Offence,</hi> whereby they are <hi>fineable,</hi> or otherwise <hi>punishable,</hi> or whereby they have <hi>forfeited</hi> those <hi>Priviledges,</hi> they are yet, as <hi>Citizens, bound by their Oaths to make the best of their Cause,</hi> either against a <hi>Quo Warranto,</hi> or any <hi>other Action</hi> brought against them by any whomsoever.</p>
+            <div type="part">
+               <head>
+                  <hi>I.</hi> The Antiquity of the City of <hi>London</hi> by Way of Prescription.</head>
+               <p>AS for the <hi>Antiquity</hi> of this <hi>celebrated City,</hi> I cannot meet with any <hi>Records</hi> to inform me when it first commenced. <hi>Venerable Bede,</hi> a <hi>Saxon,</hi> and a <hi>Priest,</hi>
+                  <note place="margin">Bed. Eccles. Hist. <hi>lib.</hi> 1. <hi>cap.</hi> 1. f. 149. <hi>l.</hi> 50.</note> who writ the <hi>Ecclesiasti<g ref="char:EOLhyphen"/>cal History</hi> of the <hi>English Nation,</hi> from the coming in of <hi>Julius Caesar,</hi> to the Year 733, and who lived near 950 Years ago, says, <hi>Britannia erat Civitatibus quondam Viginti &amp; octo Nobilissimis, insignita praeter Castella innumera, quae &amp; ipsa Muris, Turribus, por<g ref="char:EOLhyphen"/>tis ac seris erant instructa firmissimis:</hi> That <hi>Britain</hi> was of a long time <hi>famous</hi> in 28 most <hi>Noble Cities,</hi> besides <hi>Castles innumerable,</hi> which were of a vast strength: And as for the <hi>Names</hi> of these <hi>Cities</hi> I find them set down in <hi>Henry</hi> Arch-deacon of <hi>Huntingdon,</hi>
+                  <note place="margin">Hen. de Hunting. <hi>lib.</hi> 1. <hi>f.</hi> 170. <hi>b. l.</hi> 5.</note> (who writ an <hi>History</hi> of the <hi>Kings</hi> of <hi>England</hi> to the Reign of <hi>King Stephen,</hi> in whose time he lived) and among them the <hi>City</hi> of <hi>London</hi> is mentioned; He begins them thus; <hi>York, Can<g ref="char:EOLhyphen"/>terbury, Worcester, LONDON, Glocester, Winchester, Carlisle, Lincoln,</hi> &amp;c. all of them remaining Cities to this day.<note place="margin">Ammian. Marcellin.</note>
+                  <hi>Ammianus Marcellinus,</hi> who wrote near 1300 Years ago, calls <hi>London</hi> then an <hi>Ancient City.</hi>
+               </p>
+               <p>
+                  <hi>Herodian</hi> in the Life of <hi>Severus</hi> the <hi>Emperor</hi> of <hi>Rome,</hi> saith, <hi>Londinum urbs magna &amp; opulenta,</hi> that it was then a <hi>Great</hi> and <hi>Opulent City.</hi>
+               </p>
+               <p>
+                  <hi>Cornelius Tacitus,</hi>
+                  <note place="margin">Tacitus <hi>lib.</hi> 14. An<g ref="char:EOLhyphen"/>nal. <hi>cap.</hi> 10.</note> who married the Daughter of <hi>Lucius Ari<g ref="char:EOLhyphen"/>cola</hi> the <hi>Roman</hi> Governour of <hi>Britain,</hi> who was here with him by the space of seven Years, affirms, <hi>Quod Londinum <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>empore Nero<g ref="char:EOLhyphen"/>nis</hi> (which is above 1500 Years past) <hi>fuit Copia Negotiatorum &amp; Commeatu maximè celebre,</hi> that <hi>London</hi> in the time of <hi>Nero,</hi>
+                  <note place="margin">
+                     <hi>Lord</hi> Cook 4. <hi>Instit.</hi> fol. 247. <hi>a.</hi>
+                  </note> was a <hi>City</hi> famous for <hi>Trade</hi> and <hi>Commerce;</hi> nay so <hi>famous</hi> about
+<pb n="4" facs="tcp:50494:4"/> that time, that by way of <hi>highest Honour</hi> and <hi>Dignity, Cambden</hi> tells us it was <hi>enobled</hi> above 1360 Years since with the Title of <hi>AƲGƲSTA.</hi>
+                  <note place="margin">Camb. Brit. <hi>f.</hi> 305.</note>
+               </p>
+               <p>Nay, to go a great step higher yet, <hi>Fitz-Stephan,</hi> or <hi>Stephanides,</hi> a <hi>Monk</hi> of <hi>Canterbury,</hi> born of <hi>worshipful Parents</hi> in the <hi>City</hi> of <hi>London,</hi> who wrote in the Reign of <hi>Henry</hi> the <hi>Second,</hi> of <hi>this City,</hi>
+                  <note place="margin">
+                     <p>St<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>w's <hi>Survey of</hi> London, <hi>f.</hi> 575. 4<seg rend="sup">o</seg>
+                     </p>
+                     <p>Stephanides, <hi>cap.</hi> de dispositione Urbis.</p>
+                  </note> saith; <hi>Haec Civitas Ʋrbe Roma secundum Chronicorum fidem satis antiquior est,</hi> &amp;c. That if you give any credit to Historians, it's far <hi>more ancient</hi> than that of <hi>Rome.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>II.</hi> The Rights and Priviledges of the City of <hi>London</hi> proved from Charters.</head>
+               <p>NOw certainly <hi>that Person</hi> must be a Man of a <hi>hardned Forehead,</hi> or else be very <hi>ignorant</hi> in the <hi>Annals</hi> and <hi>Hi<g ref="char:EOLhyphen"/>stories</hi> of this <hi>Nation,</hi> who can suppose, that these so <hi>ancient Ci<g ref="char:EOLhyphen"/>ties</hi> declared and mentioned by <hi>Bede</hi> and <hi>Huntingdon,</hi> whereof <hi>London is one,</hi> were made <hi>Corporations</hi> by any <hi>Charters</hi> of our <hi>British, Saxon,</hi> or <hi>Norman Kings,</hi> or that they received all their <hi>Priviledges</hi> from the <hi>sole Grace, Favour</hi> and <hi>Bounty</hi> of them, who in truth were <hi>so many</hi> and <hi>so inconsiderable</hi> in those times, that <hi>Britain</hi> seemed rather an <hi>Aristocratical</hi> and <hi>Democratical Go<g ref="char:EOLhyphen"/>vernment</hi> mixed together, then any <hi>entire or absolute Monarchy;</hi> For <hi>Xiphiline,</hi>
+                  <note place="margin">Xiphil. è Dio-cassi. <hi>p.</hi> 601. Impress. Ba<g ref="char:EOLhyphen"/>siliae.</note> out of <hi>Dion Cassius</hi> in the Life of the Emperor <hi>Severus,</hi> assures us; <hi>apud hos,</hi> i. e. <hi>Britannos <hi>Populus</hi> magna ex parte <hi>Principatum</hi> tenet;</hi> that among the <hi>Britains</hi> the <hi>People</hi> bore a <hi>great share</hi> or sway in the <hi>Soveraignty;</hi> which, by shewing <hi>what kind of Government was among the Britains in those days,</hi> gives us a great Light from whence this ancient City originally had her Priviledges.</p>
+               <p>And it is another gross and <hi>notorious Error</hi> for any to affirm, that such Charters of this famous City of <hi>London</hi> as were granted to the <hi>Citizens</hi> or <hi>Barons</hi> of <hi>London,</hi> proceeded from the <hi>mere Will, Pleasure and Kindness of the ancient Kings of</hi> England: For whosoever will please to <hi>inspect</hi> with any Considerateness and Care the <hi>ancient Records</hi> and Historians of the <hi>Kingdom</hi> as to <hi>this</hi> point, may easily satisfy himself, that there is <hi>no material Clause</hi> in any of the <hi>Charters</hi> of the <hi>City</hi> of <hi>London</hi> but what hath <hi>cost</hi> the <hi>Citizens</hi> many <hi>thousands of Pounds;</hi> and I dare be bold to say, there is not one Subject in all the <hi>King's Dominions</hi> who hath <hi>purchased</hi> and paid so dear for his <hi>particular Estate</hi> by half as the <hi>Citizens</hi> of <hi>London</hi> have done for the <hi>several Grants</hi> and <hi>Confirmations</hi> of their chargeable <hi>Liberties</hi> and <hi>Priviledges.</hi>
+               </p>
+               <p>It would be <hi>endless</hi> to <hi>file</hi> a <hi>particular Account</hi> of the many <hi>vast Sums</hi> of Mony which has been paid to the <hi>Crown</hi> by the <hi>City</hi> for their <hi>several Grants</hi> and <hi>Confirmations;</hi> I shall therefore forbear such an Enlargement, and content my self with giving you a few Instances in the more early Times.</p>
+               <p n="1">
+                  <pb n="5" facs="tcp:50494:4"/>1. In the 9th of <hi>Richard</hi> the 1st,<note place="margin">Ex Rotul. in Scac.</note> the <hi>Citizens</hi> gave <hi>one thou<g ref="char:EOLhyphen"/>sand five hundred Marks pro Libertatibus suis conservandis.</hi>
+               </p>
+               <p n="2">2.<note place="margin">4 Johan. in Scac. re<g ref="char:EOLhyphen"/>man<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n.</note> In the Reign of <hi>King John</hi> they paid <hi>three thousand Marks pro habenda confirmatione Regis de Libertatibus suis,</hi> which was a very great Sum in those Times.</p>
+               <p n="3">3. In 2 <hi>H.</hi> 3.<note place="margin">MS. penès Do<g ref="char:EOLhyphen"/>min. Sam. Baldwin. Serviend. Dom. Reg. ad Leg. MS. penes <hi>Jo. Cook</hi> Gen. de In<g ref="char:EOLhyphen"/>teriori Templo. M.S. Statutor. penes <hi>Guil. Petyt. Ar.</hi> de interiori Templo. Rast. Stat. <hi>f.</hi> 1. <hi>a. c.</hi> 9.</note> they paid <hi>Quintamdecimam partem omnium Bo<g ref="char:EOLhyphen"/>norum suorum mobilium,</hi> a fifteenth part of all their moveable Goods, <hi>Ʋt Civitas London, habeat omnes Libertates antiquas &amp; li<g ref="char:EOLhyphen"/>beras Consuetudines suas,</hi> That the City of <hi>London</hi> might have all her antient Liberties and free Customs.</p>
+               <p n="4">4. In 9 <hi>H.</hi> 3. They paid <hi>another fifteenth</hi> of all their <hi>Move<g ref="char:EOLhyphen"/>ables,</hi> that <hi>London</hi> should have all the <hi>old Liberties</hi> and <hi>Customs</hi> which it had been used to have.</p>
+               <p n="5">5. In the 36th <hi>H.</hi> 3. The King granted <hi>Civibus London.</hi>
+                  <note place="margin">
+                     <hi>In</hi> MS in Archi<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>s <hi>London.</hi>
+                  </note>
+                  <hi>omnes Libertates suas Leges &amp; Consuetudines &amp; quas etiam habuerunt tem<g ref="char:EOLhyphen"/>pore Regis <hi>Henrici Primi</hi> usitatas &amp; non usitatas:</hi> for which their Rent was increased <hi>septem Libras Sterlingorum per Annum,</hi> and they then paid to the King <hi>five hundred Marks pro Charta illa habenda;</hi> no small Sum in that Age.</p>
+               <p n="6">6. In 50 <hi>H.</hi> 3.<note place="margin">Stow<hi>'s Annals</hi> fol. 199. 1 <hi>Coll.</hi> Liber de Antiquis Legibus in Archiv. <hi>London.</hi>
+                  </note> there were <hi>twenty thousand Marks</hi> paid for a <hi>further Confirmation</hi> of their <hi>Liberties;</hi> not to instance in the many illegal Impositions, Tallages, and Taxes, which that <hi>ungo<g ref="char:EOLhyphen"/>vernable King</hi> laid upon the <hi>City,</hi> notwithstanding so many of his <hi>Solemn</hi> and <hi>Sacred Oaths</hi> for the <hi>inviolable Observation</hi> of <hi>Magna Charta.</hi>
+               </p>
+               <p>I shall now proceed to shew from Charters the Privi<g ref="char:EOLhyphen"/>ledges that the <hi>Citizens</hi> of <hi>London</hi> had to <hi>choose</hi> their <hi>Officers,</hi> particularly <hi>Sheriffs;</hi> and I shall begin with,</p>
+               <p n="1">1. <hi>William</hi> the <hi>First,</hi> commonly called the <hi>Conqueror,</hi> who did confirm the <hi>Ancient Liberties</hi> of the City,<note place="margin">
+                     <hi>Stwo</hi>'s Survey of <hi>London.</hi> fol. <hi>740.</hi>
+                  </note> and by <hi>one Char<g ref="char:EOLhyphen"/>ter demised and granted to the Citizens of</hi> London, <hi>the said City, and the <hi>Sherifwick</hi> thereof;</hi> and afterwards <hi>confirmed</hi> the same<note n="*" place="margin">That there were Parliaments in <hi>Wil<g ref="char:EOLhyphen"/>liam</hi> the 1st's time, see <hi>Argumentum Anti-Normanicum,</hi> prov<g ref="char:EOLhyphen"/>ing from ancient Hi<g ref="char:EOLhyphen"/>stories and Records, that <hi>William</hi> Duke of <hi>Normandy</hi> made no absolute Conquest of <hi>England</hi> by the Sword, in the sense of our Modern Writers, printed, <hi>1682.</hi>
+                  </note> in <hi>Parliament.</hi> For the words of the Record are,<note n="†" place="margin">Lib. K. in Archiv. <hi>London.</hi>
+                  </note>
+                  <hi>Auctori<g ref="char:EOLhyphen"/>tate Parliamenti</hi> Willielmus <hi>dimisit tunc Civibus</hi> London. <hi>totam dictam Civitatem &amp; <hi>Vice-Comitatum</hi> London. cum omnibus Ap<g ref="char:EOLhyphen"/>pendiciis,</hi> &amp;c.</p>
+               <p n="2">2. As to the <hi>Sherifwick</hi> of <hi>Middlesex, <hi>Henry</hi>
+                  </hi> the <hi>First,</hi> Son to this <hi>William the Conqueror, confirmed the Liberties</hi> of the <hi>City</hi> of <hi>London,</hi> and <hi>granted</hi> to <hi>them,</hi> their <hi>Heirs</hi> and Successors <hi>for ever</hi> the <hi>Sherifwick</hi> of <hi>Middlesex</hi> at the Farm of <hi>three hundred Pounds per Annum, Ita quod ipsi <hi>Cives</hi> ponent <hi>Vice-Comitatum</hi> quales <hi>Voluerint</hi> de seipsis;</hi> so that they should chose <hi>what Sheriffs</hi> they pleased from <hi>among themselves.</hi> This was the better to en<g ref="char:EOLhyphen"/>able the <hi>City</hi> to keep the <hi>Peace;</hi> for many <hi>Murders, Rapines,</hi>
+                  <note place="margin">Ch<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rt. <hi>H.</hi> 1. per In<g ref="char:EOLhyphen"/>spec. 2 <hi>H.</hi> 5.</note> and <hi>Villanies</hi> being committed in the <hi>City,</hi> the <hi>Offenders</hi> would thereupon <hi>fly</hi> into <hi>Middlesex,</hi> and the <hi>Citizens</hi> having no Power or Jurisdiction before in that <hi>County,</hi> the Offenders by that Means escaped unpunished.</p>
+               <p n="3">3.<note place="margin">Ex MS. Civitatis London.</note>King <hi>Stephen</hi> by his <hi>Magna Charta <hi>confirmed</hi>
+                  </hi> (amongst others) the <hi>Liberties</hi> of the <hi>City,</hi> which they not only had in
+<pb n="6" facs="tcp:50494:5"/> the Times of <hi>William the Conqueror,</hi>
+                  <note place="margin">Omnes Libertates &amp; bonas Leges quas Hen. Rex Angl. Ab<g ref="char:EOLhyphen"/>vunculus meus eis de<g ref="char:EOLhyphen"/>dit &amp; concessit &amp; om<g ref="char:EOLhyphen"/>nes bonas Leg<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s, &amp; bonas Consuetudines eis concedo quas habuerunt <hi>Tempore</hi> R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gis <hi>E<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>wardi. Magna Charta Regis Stephani.</hi>
+                  </note>
+                  <hi>William Rufus,</hi> and <hi>Henry the First,</hi> but those they had and <hi>enjoyed</hi> in the time of <hi>Edward</hi> the <hi>Confessor.</hi>
+               </p>
+               <p n="4">
+                  <note place="margin">Concessit &amp; red<g ref="char:EOLhyphen"/>didit, &amp; Chartâ suâ <hi>Confirmavit</hi> omnes <hi>Consuetudines</hi> quas R. Hen. 1. eis dedit &amp; concessit libe è, quietè &amp; plenariè te<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>end. Spel. Glos. Diatriba de <hi>Magna Charta.</hi> fol. 375. In Archivis London. Journ. Seym. <hi>fol.</hi> 467. 27 H. 8. <hi>The great Case between</hi> St. Martin le Grand <hi>and the City of</hi> London.</note>4. <hi>Henry</hi> the <hi>Second</hi> by his <hi>Magna Charta</hi> did the same, and so did,</p>
+               <p n="5">5. King <hi>Richard</hi> the First, his Son, who by his Letters Patents granted to the said Citizens all those their said <hi>Customs,</hi> and <hi>all</hi> other <hi>Liberties</hi> and <hi>Free Customs</hi> which they had in the time of King <hi>Henry,</hi> Grandfather to King <hi>Henry</hi> his Father, <hi>whensoever they were best, or most free Customs.</hi>
+               </p>
+               <p n="6">6. King <hi>John</hi> in the first Year of his Reign, by a <hi>Particular Charter,</hi>
+                  <note place="margin">Ex Original. Chart. 1 Johannis.</note>
+                  <hi>confirmed</hi> to the <hi>Citizens</hi> of <hi>London</hi> and their <hi>Heirs,</hi> the <hi>free Election</hi> of their <hi>Mayor</hi> and <hi>Sheriffs,</hi> with a Power to <hi>displace</hi> and <hi>remove</hi> the <hi>Sheriffs</hi> at their <hi>own pleasure:</hi> the Words are, <hi>Quod ipsi de seipsis faciant <hi>Vice-Comites</hi> quoscun{que} voluerint, &amp; <hi>amoveant</hi> quando voluerint.</hi>
+               </p>
+               <p n="7">
+                  <note place="margin">Charta <hi>H.</hi> 3. per Inspex. 2 <hi>H.</hi> 5.</note>7. <hi>Henry</hi> the Third by his Charter <hi>ratified</hi> and <hi>confirmed</hi> to the <hi>Citizens</hi> of <hi>London</hi> and their <hi>Heirs</hi> the <hi>Sherifwicks</hi> of <hi>London</hi> and <hi>Middlesex</hi> for the ancient Fee-Farm of 300 <hi>l. per. Annum,</hi> which was the <hi>original</hi> Rent in <hi>Henry</hi> the <hi>First</hi> his time, with the former Clause, <hi>Quod ipsi de seipsis,</hi> &amp;c. And after the <hi>Citizens</hi> should present their Sheriffs so <hi>chosen</hi> by <hi>them</hi> at the <hi>Exchequer.</hi>
+               </p>
+               <p>Which said <hi>Charters</hi> of <hi>Hen.</hi> 1st, King <hi>John,</hi> and <hi>Henry</hi> the Third, have by <hi>Inspeximus</hi>'s been <hi>confirmed</hi> under the <hi>Great-Seal</hi> of <hi>England,</hi> one of the greatest Obligations of the King to the People, by <hi>Edw.</hi> 1. <hi>Edw.</hi> 2. <hi>Edw.</hi> 3. <hi>Hen.</hi> 4. <hi>Hen.</hi> 5. <hi>Hen.</hi> 6. <hi>Ed.</hi> 4. <hi>Rich.</hi> 3. <hi>Hen.</hi> 7. <hi>Hen.</hi> 8. <hi>Ed.</hi> 6. Q. <hi>Mary,</hi> Q. <hi>Eliz.</hi> King <hi>James,</hi> King <hi>Charles</hi> 1. and <hi>his Present Majesty.</hi>
+               </p>
+               <p>To <hi>close</hi> this <hi>Point,</hi> In the <hi>memorable</hi> Case between the <hi>Dean</hi> and <hi>Chapter</hi> of <hi>Westminster</hi> and the <hi>City</hi> of <hi>London</hi> 27 <hi>Hen.</hi> 8. touching St. <hi>Martins le Grand,</hi> the <hi>City</hi> by the deliberate Advice not only of the <hi>Recorder</hi> and of the <hi>City</hi> Counsel, but no doubt by the Direction also of other <hi>great</hi> and <hi>eminent <hi>Lawyers</hi>
+                  </hi> of <hi>England,</hi> penned and exhibited the ensuing <hi>Articles</hi> against the <hi>Sanctuary</hi> of St. <hi>Martin</hi>'s to the <hi>King</hi> and <hi>Council,</hi> as I under<g ref="char:EOLhyphen"/>stand it.</p>
+               <p>
+                  <note place="margin">Journ. Seym. <hi>fol.</hi> 467. <hi>a.</hi> 27 <hi>Hen.</hi> 8. <hi>St.</hi> Martins le Grand.</note>
+                  <hi>Articles</hi> declaring for the <hi>Mayor</hi> and <hi>Commonalty</hi> of <hi>London,</hi> that the <hi>Enclosure</hi> and Chyrch of seynt <hi>Martines le Grande,</hi> the Messuages, Houses, and Lane of seynt <hi>Martins</hi> aforesayd, be of and in the <hi>Liberty</hi> and <hi>Jurisdiction</hi> of the said <hi>City,</hi> and that there be, nor by any <hi>lawful</hi> meane have been any such <hi>Priviledges</hi> and <hi>Im<g ref="char:EOLhyphen"/>munity,</hi> the which may or ought to <hi>defend all manner of enorm E<g ref="char:EOLhyphen"/>nemies of God, the Chyrch, the King and the Realme unpunished, as it hath been of long wrongfully accustomed,</hi> and especially to <hi>disherit</hi> our most dread Soveraign <hi>Lord</hi> and his said <hi>City</hi> and <hi>Chamber</hi>
+                  <pb n="7" facs="tcp:50494:5"/> of <hi>London</hi> of such <hi>Rights, Jurisdictions, Liberties and free Cu<g ref="char:EOLhyphen"/>stomes</hi> as of <hi>long time</hi> before the <hi>Foundation,</hi> and at the <hi>Founda<g ref="char:EOLhyphen"/>tion</hi> of the said <hi>Chyrch,</hi> and <hi>ever after</hi> peaceably and quietly had used and approved by divers <hi>Records</hi> by <hi>Authority</hi> of <hi>Parlia<g ref="char:EOLhyphen"/>ment, Letters Patents,</hi> and <hi>otherwise,</hi> as followeth.</p>
+               <p n="1">1. First, They seyen that the <hi>City</hi> of <hi>London</hi> is, and <hi>synce</hi> the time of <hi>Remembrance</hi> of <hi>Man,</hi> hath been the <hi>Chief City</hi> of this <hi>Realm,</hi> and above all other <hi>Cities</hi> and <hi>Towns</hi> of the same, as well in <hi>Honours, Liberties,</hi> and <hi>Free Customs highly endowed;</hi> and the which <hi>Famous City</hi> in the time of Seynt <hi>Edward King</hi> and <hi>Confessor,</hi> and <hi>long time before,</hi> always hath been of it self <hi>one hoole County,</hi> and one <hi>hoole Jurisdiction</hi> and <hi>Liberty</hi> by the said <hi>Citizens</hi> and their <hi>Predecessors,</hi> of the <hi>King</hi> and his <hi>Progeni<g ref="char:EOLhyphen"/>tours</hi> holden at Farm.</p>
+               <p>And the same <hi>Citizens</hi> then and by all the time aforeseid by <hi>reason</hi> of their seid <hi>Jurisdiction</hi> and <hi>Liberty</hi> among others have had <hi>Liberties</hi> and <hi>free Customs <hi>to elect and make of themselves yearly certeyn principal Officers in the said City, which faith<g ref="char:EOLhyphen"/>fully shudde answer the King's Ferme, and immediately under him the People of the said City,</hi>
+                  </hi>
+                  <note place="margin">
+                     <hi>Nota.</hi> That all Officers within the City were to answer as well to the <hi>Citizens</hi> as the <hi>King.</hi>
+                  </note> and others repairing to the same; in <hi>Peace, Ʋnity,</hi> and <hi>Justice</hi> shudde <hi>govern after their old Laws and Customs.</hi> And also to <hi>substitute</hi> under them other under-<hi>Officers</hi> and <hi>Ministers</hi> to help for the Sustentation and Ex<g ref="char:EOLhyphen"/>ecution of the Premisses. Thus far only out of the Record.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>III.</hi> The Rights and Priviledges of the City of <hi>London</hi> prov'd from Acts of Parliament.</head>
+               <p>AND that the <hi>Rights</hi> of this so Famous and <hi>Ancient City</hi> might be kept <hi>inviolable,</hi> and remain and flourish to all fu<g ref="char:EOLhyphen"/>ture Generations. It was the <hi>great Wisdom</hi> of the <hi>Kingdom</hi> to fortify it with new <hi>Rampiers</hi> against all succeeding <hi>Attaques</hi> and <hi>Invasions</hi> whatsoever.<note place="margin">Apud C. Lambard L. L. Will. Prim. <hi>f.</hi> 170, <hi>c.</hi> 55. Ut omnes <hi>Lib. Hom. totius Monarchia</hi> Regni nostri praedict. <hi>habe<g ref="char:EOLhyphen"/>ant</hi> &amp; <hi>teneant</hi> Ter<g ref="char:EOLhyphen"/>ras suas &amp; Possessio<g ref="char:EOLhyphen"/>nes suas be<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>è &amp; in pace lib. ab omni <hi>Ex<g ref="char:EOLhyphen"/>act.</hi> injusta, &amp; ab omni <hi>Tallagio,</hi> ita quod <hi>nihil</hi> ab e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ex<g ref="char:EOLhyphen"/>igatur vel capiatur nisi <hi>Servitium</hi> suum <hi>liberum</hi> quod de <hi>jure</hi> nobis facere debent &amp; facere teneatur &amp; pront <hi>Statut.</hi> est eis &amp; illis a nob. <hi>dat.</hi> &amp; <hi>Concess.</hi> jure <hi>Heredit. in perpet per Commu<g ref="char:EOLhyphen"/>ne Concil. totius Reg<g ref="char:EOLhyphen"/>ni nostri praedict.</hi>
+                  </note>
+               </p>
+               <p>I shall pass over the <hi>Magna Charta</hi> confirmed by the <hi>Com<g ref="char:EOLhyphen"/>mon Council</hi> or <hi>Parliament</hi> of the Kingdom in the <hi>fourth</hi> Year of <hi>William</hi> the <hi>First,</hi> wherein it was ordained [That all the <hi>Free<g ref="char:EOLhyphen"/>men</hi> of the whole Kingdom aforesaid, should have and keep their <hi>Lands</hi> and <hi>Possessions</hi> well and in <hi>Peace,</hi> free from all <hi>unjust Ex<g ref="char:EOLhyphen"/>actions</hi> and <hi>Tallage,</hi> so that <hi>nothing</hi> should be <hi>exacted</hi> or <hi>taken</hi> from them but their <hi>free Services</hi> due to him according to <hi>Law,</hi> given and granted by them to him by <hi>Right</hi> of <hi>Inheritance</hi> for ever, and that <hi>by the Common Council</hi> of the <hi>whole Kingdom.</hi>]</p>
+               <p>I say, I shall pass over that Charter, and descend to the <hi>Great Charter</hi> of the <hi>Liberties</hi> of <hi>England</hi> granted in King <hi>John</hi>'s time,<note n="*" place="margin">Mat. Paris <hi>Fol.</hi>
+                  </note>
+                  <hi>Ʋt <hi>Civitas</hi> Londinensis habeat <hi>omnes antiquas Libertates</hi> &amp; <hi>liberas Consuetudines suas</hi> tam per Terras quàm per Aquas;</hi> and<note n="†" place="margin">
+                     <hi>Rastall's</hi> Stat. Fol.</note> that of <hi>Hen.</hi> 3. whereby the <hi>City</hi> was to enjoy all the <hi>Old Li<g ref="char:EOLhyphen"/>berties</hi> and <hi>Customs</hi> which it had been used to have.</p>
+               <pb n="8" facs="tcp:50494:6"/>
+               <p>And it is very observable, that the <hi>Magna Charta</hi>'s of <hi>Hen.</hi> 1. King <hi>Stephen,</hi> and <hi>Henry</hi> the Second, were but as general <hi>Con<g ref="char:EOLhyphen"/>firmations</hi> of all the <hi>Liberties,</hi> good <hi>Laws,</hi> and ancient <hi>Customs</hi> of the <hi>Kingdom:</hi> but <hi>Differences</hi> happening to arise between King <hi>John</hi> and the <hi>Barons</hi> concerning what those <hi>Liberties, Laws</hi> and ancient <hi>Customs, <hi>as well</hi>
+                  </hi> of the <hi>Crown</hi> as of the <hi>People,</hi> were, that so they might be brought into greater certainty, and receive new force, The <hi>Magna Charta</hi> of King <hi>John</hi> was drawn and reduced into more <hi>particular</hi> and <hi>distinct <hi>Articles</hi>
+                  </hi> or <hi>Chapters,</hi>
+                  <note place="margin">Quam Johannes fi<g ref="char:EOLhyphen"/>deli<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>èr tenere juravit <hi>Rot. Pat.</hi> 17. Joh. per unica <hi>m.</hi> 23. <hi>n.</hi> 3.</note> which he <hi>swore</hi> faithfully to <hi>keep</hi> and <hi>observe,</hi> and the <hi>Barons</hi> did him <hi>Homage</hi> thereupon. And it is a <hi>Truth</hi> most <hi>infallible,</hi> notwith<g ref="char:EOLhyphen"/>standing the <hi>Ignorance</hi> (not to say <hi>Malice</hi>) of several <hi>modern</hi> Writers, that have <hi>industriously</hi> imployed their Pens to <hi>defame</hi> those <hi>Venerable</hi> and <hi>Ancient <hi>Constitutions</hi>
+                  </hi> of the <hi>Kingdom,</hi> where<g ref="char:EOLhyphen"/>by this <hi>last Age</hi> has been so much <hi>poysoned</hi> with their <hi>notorious <hi>Errors.</hi>
+                  </hi> I say, this <hi>Charter</hi> of King <hi>John, Matt. Paris</hi> (who was <hi>Historiographer Royal</hi> to <hi>Henry</hi> the Third, Son of King <hi>John,</hi> and who lived in that time) does affirm, did contain <hi>ex parte maxima <hi>Leges Antiquas</hi> &amp; Regni <hi>Consuetudines,</hi>
+                  </hi> chiefly the <hi>Ancient Laws</hi> and <hi>Customs</hi> of the Realm. And he must be a <hi>Man</hi> of but an <hi>ordinary</hi> Capacity and Knowledg in the <hi>Saxon</hi> Laws, and in the Laws of <hi>William</hi> the 1st, and <hi>Henry</hi> the 1st, and other ancient Records of the Nation, that will <hi>assert</hi> the <hi>contrary:</hi> But if he <hi>desires</hi> to come to the <hi>Knowledg</hi> of the <hi>Truth,</hi> for which <hi>all Men</hi> ought to have the <hi>highest Deference</hi> and <hi>Veneration,</hi> and will do himself that <hi>Justice</hi> to compare the <hi>Magna Charta</hi> of King <hi>John</hi> with the above-recited Laws and Charters, he may very easily, for the correcting of his Judgment, inform himself, That the <hi>Concession</hi> and <hi>Confirmation</hi> of those <hi>Laws</hi> by King <hi>John</hi>'s Charter were not <hi>Leges <hi>de</hi> novo <hi>introductae vel concessae,</hi>
+                  </hi> new upstart Laws inforced upon him by the <hi>power</hi> of the <hi>Barons</hi> at <hi>Running mead;</hi> But they were the <hi>avitae <hi>Consuetudines &amp;</hi> antiquae <hi>Leges Anglorum,</hi>
+                  </hi> and to the Observation of which in the <hi>general, Vinculo juramenti in die Coronationis suae adstrictus fuit,</hi> as we shall shew hereafter.</p>
+               <p>
+                  <note place="margin">Spel. Gloss. Diatrib. de Mag. Char. <hi>f.</hi> 374.</note>This great Charter of King <hi>John,</hi> which Sir <hi>Hen. Spelman</hi> calls— (<hi>Augustissim. Anglicar. Libertatum diploma &amp; <hi>sacra</hi> An<g ref="char:EOLhyphen"/>chora</hi>) was in the general ratified and confirmed in several Par<g ref="char:EOLhyphen"/>liaments in the Reign of <hi>Hen.</hi> 3. (and in particular, in the Parliament in the 52 Year of <hi>Hen.</hi> 3.) after he had <hi>conquered</hi> and subdued the <hi>Barons,</hi> and was in the actual Possession of the <hi>Entire Regality</hi> of the Crown; I say, that then that King did summon a <hi>Parliament</hi> at <hi>Marlborough</hi> to <hi>provide</hi> for the <hi>better Estate</hi> of the <hi>Realm,</hi>
+                  <note place="margin">52. <hi>H.</hi> 3. Stat. de Marlb. <hi>Preamble.</hi>
+                  </note> for the more speedy <hi>ministration</hi> of <hi>Justice,</hi> as belongeth to the <hi>Office</hi> of a <hi>King,</hi> the more <hi>discreet <hi>Men</hi>
+                  </hi> of the <hi>Realm</hi> being <hi>called together, <hi>as well of the higher as of the lower Estate, It</hi>
+                  </hi> was <hi>provided, agreed,</hi> and <hi>ordained,</hi> That whereas the <hi>Realm</hi> of <hi>England</hi> of late had been <hi>disquieted</hi> with <hi>manifold Troubles</hi> and Dissentions, for <hi>Reformation</hi> whereof, <hi>Statutes</hi> and <hi>Laws</hi> were <hi>right necessary,</hi> whereby the <hi>Peace</hi> and <hi>Tranquillity</hi> of
+<pb n="9" facs="tcp:50494:6"/> the <hi>People</hi> must be <hi>observed,</hi> amongst other <hi>Acts, Ordinances,</hi> and <hi>Statutes</hi> then made, which the <hi>King willed</hi> to be <hi>observed</hi> for <hi>ever <hi>firmly</hi>
+                  </hi> and <hi>inviolably</hi> of <hi>all</hi> his <hi>Subjects</hi> as well <hi>high</hi> as <hi>low,</hi>
+                  <note place="margin">Register. <hi>fol.</hi> 97. Stat. de Marl. <hi>c.</hi> 5. 15 Ed. 4. <hi>f.</hi> 13. Mir<g ref="char:EOLhyphen"/>ror 319. Co. 2 Inst. <hi>fol.</hi> 108.</note>
+                  <hi>De Communi Consilio Regni Angliae Provisum fuit,</hi> That the <hi>Great Charter</hi> shall be <hi>observed</hi> in all <hi>his Articles,</hi> as well in <hi>such</hi> as <hi>pertain</hi> to the <hi>King,</hi> as to <hi>other.</hi> And that shall be <hi>enquired</hi> afore the <hi>Justices in Eyre</hi> in their <hi>Circuits,</hi> and afore the <hi>Sheriffs</hi> in their <hi>Counties</hi> when <hi>need</hi> shall be; and <hi>Writs</hi> shall be <hi>freely granted</hi> against them that do <hi>offend</hi> before the <hi>King</hi> or the <hi>Justi<g ref="char:EOLhyphen"/>ces</hi> of the <hi>Bench,</hi> or before <hi>Justices in Eyre</hi> when they come into those parts. Likewise the <hi>Charter of the Forest shall be observed in all his Articles,</hi> and the <hi>Offenders</hi> when they be <hi>convict</hi> shall be <hi>grievously punished</hi> by our Soveraign Lord the <hi>King</hi> in Form above mentioned.</p>
+               <p>Thus we see the steddy and <hi>inviolable Observation</hi> of this <hi>Great Charter</hi> (wherein the <hi>Article</hi> concerning the <hi>Liberties</hi> and <hi>Franchises</hi> of the <hi>City</hi> of <hi>London</hi> is a <hi>main</hi> and <hi>essential Branch</hi>) was thought by <hi>this King</hi> and his <hi>Great</hi> and <hi>Soveraign <hi>Council</hi>
+                  </hi> of <hi>Parliament</hi> very <hi>necessary,</hi> if not the <hi>best</hi> and <hi>only way</hi> to preserve the <hi>Peace</hi> and <hi>Tranquillity</hi> of the <hi>People</hi> of <hi>England.</hi> And not only <hi>that King,</hi> but the <hi>whole Nation</hi> were divers times <hi>sworn</hi> to the <hi>Religious Observation</hi> of it, and the <hi>Clergy</hi> several times in their <hi>Publick Excommunications <hi>cursed</hi>
+                  </hi> all such as should <hi>violate</hi> or <hi>infringe</hi> any <hi>one Article</hi> of it.</p>
+               <p>So <hi>zealous</hi> were our <hi>Ancestors</hi> to preserve <hi>their Liberties</hi> from all <hi>Encroachments,</hi> that they employed all the <hi>Strength</hi> of <hi>Hu<g ref="char:EOLhyphen"/>man Policy</hi> and <hi>Religious Obligations</hi> to <hi>secure</hi> them <hi>entire</hi> and <hi>inviolate.</hi>
+               </p>
+               <p>Nor did the Care of <hi>preserving</hi> this <hi>Great Charter,</hi> and therein the <hi>memorable Liberties</hi> and <hi>Priviledges</hi> of the <hi>City</hi> of <hi>London,</hi> end with that King's Life; But in the <hi>several Confirmations</hi> of that <hi>Charter</hi> in the Reign of that mighty Prince <hi>Edw.</hi> 1.<note place="margin">Ror. Stat. 25 <hi>E.</hi> 1. <hi>m.</hi> 38. <hi>Co.</hi> 2. <hi>Inst.</hi> c. 38. f 76. Magna Char<g ref="char:EOLhyphen"/>ta 28 <hi>E.</hi> 1. sub mag<g ref="char:EOLhyphen"/>no Sigilio in Archi<g ref="char:EOLhyphen"/>vis Lond. remanent.</note> by <hi>Parliament</hi> (in particular in the 25 and 28 Years) the <hi>Clergy's care</hi> was as <hi>great,</hi> and as <hi>great</hi> were their <hi>Excommunications</hi> against the <hi>Breakers</hi> of it: Nay, by a <hi>General Canon</hi> it was strictly <hi>ordained</hi> and <hi>commanded</hi> that the <hi>Priests</hi> and <hi>Confessors</hi> when their <hi>Pe<g ref="char:EOLhyphen"/>nitents</hi> came to make <hi>Confession</hi> to them,<note place="margin">Pupilla Oculi <hi>fol.</hi> 50. <hi>cap.</hi> 22. De se<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>tentia lata super magnam Chartam.</note> should <hi>charge</hi> their <hi>Consciences</hi> with the <hi>inviolable Observation</hi> of, and <hi>Obedience</hi> to this <hi>mighty Law,</hi> and therein the <hi>Preservation</hi> of the <hi>Liberties</hi> and <hi>free Customs</hi> of this <hi>great Metropolis</hi> of the <hi>Nation</hi> (the <hi>City</hi> of <hi>London</hi>) as being an <hi>essential</hi> part in <hi>Magna Charta,</hi> as I have said before.</p>
+               <p>Nay, so <hi>tender</hi> and <hi>careful</hi> was the <hi>Wisdom</hi> of <hi>Parliament</hi> in 34 <hi>Ed.</hi> 1. That in the Statute <hi>de Tallagio non concedendo</hi> cap. 4. It was ordained for <hi>him</hi> and his <hi>Successors,</hi> viz.<note place="margin">Keebl. Stat. <hi>cap.</hi> 4. <hi>fol.</hi> 72. Volumus &amp; Concedim. pro nobis &amp; Hered. nostris quòd omnes <hi>Cleri &amp; Laici</hi> de Regno nostro habeant omnes <hi>Leges, Libertates &amp; liberas Consuetudines suas</hi> ita liberè &amp; integrè sicut eas <hi>aliquo tempore</hi> melius &amp; plenius habere <hi>consueverunt,</hi> &amp; si contra illas quocun{que} Articulo in praesenti Charta con<g ref="char:EOLhyphen"/>tento Statuta fuerint edita per Nos &amp; Antecessores nostros vel Consuetudines introductae volumus &amp; concedimus quòd hujusmodi Consuetudines &amp; Statuta vacua &amp; nulla sint in perpetuum.</note>
+                  <hi>All <hi>Clerks</hi> and <hi>Laymen</hi> of our <hi>Land</hi> shall have their <hi>Laws, Liberties,</hi> and <hi>free Customs</hi> as <hi>largely</hi> and <hi>wholly</hi> as they have used to have the same
+<pb n="10" facs="tcp:50494:7"/>
+                     <hi>at any time</hi> when they had them <hi>best:</hi> And if any Statutes have been made by Ʋs or our Ancestors, or any Customs brought in contra<g ref="char:EOLhyphen"/>ry to them, or any manner of Article contained in this present Charter, We will and grant that such manner of Statutes and Customs shall be void and frustrate for evermore.</hi>
+               </p>
+               <p>
+                  <note place="margin">Co. 2 Instit. <hi>f.</hi> 534.</note>This containeth (as my Lord Chief Justice <hi>Cook</hi> observes) a <hi>Restitution general</hi> to the <hi>Subjects</hi> of all their <hi>Laws, Liberties,</hi> and <hi>free Customs,</hi> as <hi>freely</hi> and <hi>wholly</hi> as at any time <hi>before,</hi> in the <hi>better</hi> and <hi>fuller manner</hi> they used to have the same: And this doth not only <hi>extend</hi> to <hi>Magna Charta,</hi> and <hi>Charta de Foresta,</hi> but to all <hi>other Laws, Liberties,</hi> or <hi>Freedoms,</hi> and <hi>free Customs</hi> what<g ref="char:EOLhyphen"/>soever. But to proceed.</p>
+               <p>
+                  <note place="margin">Rot Claus. 19. <hi>H.</hi> 2. <hi>m.</hi> 15. dorso.</note>There having been several <hi>Invasions</hi> and <hi>illegal</hi> Proceedings made by the King's <hi>Justices</hi> and other his <hi>Ministers</hi> upon the <hi>Franchises, Customs</hi> and ancient Usages of the City, especially by colour of a <hi>Quo Warranto</hi> brought against the City 14 <hi>E.</hi> 2. before <hi>Henry de Stanton</hi> and others, Justices in Eyre, sitting in the Tower of <hi>London,</hi> who not only had refused to allow the Citizens some of their <hi>Praescriptional</hi> Rights, but had <hi>fore-judg'd</hi> them of others <hi>contrary</hi> to their <hi>ancient Customs.</hi> The Com<g ref="char:EOLhyphen"/>mons in Parliament, 19 <hi>Edw.</hi> 2. petition'd the King, That he would please to let the City enjoy again those <hi>Liberties,</hi> without having any further Attempts made upon it by his <hi>Mini<g ref="char:EOLhyphen"/>sters</hi> or <hi>Judges:</hi> and as the <hi>Reason</hi> they gave was <hi>extraordinary,</hi> so likewise was it most <hi>true, Que nosire Commune Recovrir est en la dite Citée,</hi> because the general <hi>Safety</hi> of the <hi>Kingdom</hi> was in that of the said <hi>City:</hi> To which the King, <hi>De assensu Praelato<g ref="char:EOLhyphen"/>rum Comitum Baronum &amp; aliorum in dicto Parliamento tunc ex<g ref="char:EOLhyphen"/>istentium,</hi> Answered, <hi>Que droit soit fait,</hi> That Right should be done them.</p>
+               <p>And indeed it was no wonder that <hi>Edw.</hi> 2. bore a <hi>heavy</hi> Hand over the <hi>Londoners,</hi>
+                  <note place="margin">Rot. Claus. 35 <hi>E.</hi> 1. <hi>m.</hi> 13. dorso. Fit le serement sur le Corps de Dieu &amp; sur les autres Reli<g ref="char:EOLhyphen"/>ques.</note> since forgetting his <hi>Solemn Oath</hi> he had made to his Father <hi>Edw.</hi> 1. <hi>upon the Body of God, and upon other Reliques,</hi> in the Parliament 35 of his Reign, That he would never have any thing more to do with <hi>Peirce Gaveston,</hi> a <hi>Gascoign</hi> or <hi>French-man,</hi> who had sadly debauched him, for which <hi>(Communi decreto exiliatus)</hi> he was banished the King<g ref="char:EOLhyphen"/>dom by Act of Parliament:<note place="margin">Walsingham. <hi>fol.</hi> 93.</note> Yet notwithstanding, scarce was the Breath out of the Body of his Royal Father, but <hi>Edward</hi> sent for <hi>Gaveston,</hi> made him Earl of <hi>Cornwall,</hi> Lord Lieutenant of <hi>Ireland,</hi> and gave up the Reins of his <hi>Government</hi> to be wholly managed by the said <hi>Peirce Gaveston,</hi> after whose <hi>Tragical</hi> Fall the King re<g ref="char:EOLhyphen"/>signed <hi>himself</hi> to be <hi>absolutely</hi> governed by the pernicious and wo<g ref="char:EOLhyphen"/>ful Counsels of the two <hi>Spencers</hi> and their <hi>Accomplices,</hi> of whose <hi>usurped Royal Power,</hi> their Banishment of the Queen and Prince (afterwards <hi>Ed.</hi> 3.) their cutting off and murthering so many Noble Men,<note place="margin">Walsingham. <hi>fol.</hi> 93.</note> and others, especially <hi>Thomas</hi> Earl of <hi>Lancaster</hi> the King's Unckle, (whom <hi>E.</hi> 1. upon his Death had charg'd his Son, <hi>ut diligeret &amp; faveret</hi>) their villanous design <hi>totally</hi> to destroy the <hi>Blood Royal,</hi> and other their <hi>horrible Destructions, Oppressions,</hi>
+                  <pb n="11" facs="tcp:50494:7"/> and general <hi>Mischiefs,</hi> as <hi>Traitours</hi> and Enemies to the King and Realm, as the <hi>Records</hi> and <hi>Historians</hi> of those times witness;<note place="margin">Knighton Col. 2531. Dugdale Barona<g ref="char:EOLhyphen"/>gium.</note> so have we the Evidence of the <hi>whole Kingdom</hi> in the Parliament 1 <hi>Ed.</hi> 3. which (amongst other things) tells us, <hi>That</hi> Ed. 2. <hi>no<g ref="char:EOLhyphen"/>thing did, nor would do but as the</hi> Spencers <hi>and their Party coun<g ref="char:EOLhyphen"/>selled him, were it never so great Wrong.</hi>
+               </p>
+               <p>The Answer of <hi>Ed.</hi> 2. in his Parliament, <hi>Anno</hi> 19, before mentioned, being not therefore thought a <hi>sufficient Guard</hi> against the King's Ministers, his Son and Successor, <hi>Ed.</hi> 3. in the <hi>first Year</hi> of his Reign, <hi>De Assensu Praelatorum, Comitum,</hi>
+                  <note place="margin">Plac. Coronae co<g ref="char:EOLhyphen"/>ram Domino Rege apud Eborac. Term. Statutae Trinitat. 1 <hi>E.</hi> 3. penes Came<g ref="char:EOLhyphen"/>rar. in Scaccario re<g ref="char:EOLhyphen"/>manen.</note>
+                  <hi>Baronum &amp; totius Communitatis Regni in Parliamento.</hi> By the <hi>Consent</hi> both of the <hi>Lords</hi> and <hi>Commons,</hi> did by his <hi>Charter</hi> in that <hi>Parliament</hi> grant and <hi>confirm,</hi> as a <hi>perpetual Law,</hi> for him and his <hi>Heirs <hi>for ever,</hi> That since <hi>In Magna Charta de Libertatibus Angliae,</hi> it was contained, That the City of</hi> London <hi>should have and enjoy</hi> Omnes Libertates suas antiquas &amp; Consuetudines suas, <hi>All</hi> their <hi>Ancient Liberties</hi> and <hi>Customes; And because</hi> the <hi>said Citizens</hi> had at the time of the said <hi>Charter, Et temporibus Sancti Edwardi Regis &amp; Confessoris &amp; Willielmi Conquestoris &amp; aliorum Progeni<g ref="char:EOLhyphen"/>torum nostrorum;</hi> and in the time of St. <hi>Edward</hi> the <hi>Confessor,</hi> and <hi>William</hi> the <hi>Conqueror,</hi> and other the <hi>Progenitors</hi> of the said King, <hi>diversas Libertates &amp; Consuetudines tam per Chartas ipso<g ref="char:EOLhyphen"/>rum Progenitorum quam sine Chartis ex antiqua Consuetudine,</hi> he <hi>granted</hi> and <hi>confirmed</hi> to the <hi>Citizens</hi> their <hi>Heirs</hi> and <hi>Successors,</hi> that they should <hi>enjoy</hi> their <hi>Liberties</hi> and <hi>Customs</hi> which they <hi>not only</hi> had by the <hi>Charters</hi> of those his said <hi>Progenitors,</hi> but which they <hi>enjoyed <hi>without Charters</hi>
+                  </hi> by <hi>ancient Customes.</hi> And because <hi>those Liberties</hi> had been <hi>oftentimes impeached,</hi> and some of them <hi>fore-judged</hi> in the <hi>tempestuous times</hi> of <hi>Edw.</hi> 2. as before hath been observed, and other <hi>preceding Kings,</hi> contrary to <hi>Magna Char<g ref="char:EOLhyphen"/>ta:</hi> therefore both the <hi>King,</hi> and the <hi>Lords</hi> and <hi>Commons</hi> did set a <hi>Brand</hi> upon such illegal <hi>Proceedings,</hi> and by their <hi>Solemn Act</hi> did publickly <hi>condemn</hi> them as <hi>Vsurpations,</hi> to prevent the like in Ages to come; and also put a mark of Infamy upon the Names of <hi>Henry de Stanton</hi> and his Fellow-Justices, who in the <hi>Quo Warranto</hi> 14 <hi>Ed.</hi> 2. refus'd to do the City Justice.</p>
+               <p>And further, by the same Authority, it was <hi>Enacted,</hi>
+                  <note place="margin">Quod pro aliqua Personali Transgres<g ref="char:EOLhyphen"/>sione vel Judicio per<g ref="char:EOLhyphen"/>sonali alicujus Mini<g ref="char:EOLhyphen"/>stri eju<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dem Civita<g ref="char:EOLhyphen"/>tis non capiatur Li<g ref="char:EOLunhyphen"/>bertas Civitatis illi<g ref="char:EOLhyphen"/>us in manum no<g ref="char:EOLunhyphen"/>stram vel Hered. no<g ref="char:EOLhyphen"/>strorum nec Custos in eadem Civitate eâ occasione deputetur sed hujusmodi Mini<g ref="char:EOLhyphen"/>ster prout qualitas transgressionis re<g ref="char:EOLhyphen"/>quirit, puniatur.</note> That the <hi>Liberty</hi> of the said <hi>City</hi> should not be taken into the <hi>Hands</hi> of <hi>Edward</hi> the Third, or his <hi>Heirs,</hi> for any <hi>Personal Trespass</hi> or <hi>Judg<g ref="char:EOLhyphen"/>ment</hi> of any <hi>Minister</hi> of the said <hi>City;</hi> Nor that a <hi>Custos</hi> should be <hi>set</hi> over the said <hi>City</hi> upon any such like <hi>Occasion,</hi> but the <hi>Minister</hi> that transgressed, should be <hi>punished</hi> according to the <hi>Quality</hi> of his <hi>Offence.</hi>
+               </p>
+               <p>And when <hi>Richard</hi> the Second (that unfortunate Prince) endeavour'd to shake the <hi>Antient Government</hi> of the City, as also of the <hi>whole Kingdom;</hi> for his unlucky <hi>Flatterers</hi> had so far <hi>impos'd</hi> upon his <hi>Ʋnderstanding,</hi> that <hi>forgetting</hi> his solemn <hi>Corona<g ref="char:EOLhyphen"/>tion</hi>-Oath, whereby he was bound to govern his Subjects <hi>secundum Leges Regni</hi> according to the <hi>Laws</hi> of the <hi>Kingdom,</hi> not <hi>secundum merum Imperium Regis;</hi> he often declared, <hi>Quod <hi>Leges</hi> suae erant
+<pb n="12" facs="tcp:50494:8"/> in <hi>Ore</hi> suo,</hi>
+                  <note place="margin">Rot. Parl. 1 <hi>H.</hi> 4. Art. 16.</note>
+                  <hi>&amp; in <hi>Pectore</hi> suo, &amp; quod ipse <hi>solus</hi> possit mutare &amp; condere <hi>Leges,</hi>
+                  </hi> that the <hi>Laws</hi> were in his <hi>Mouth</hi> and in his <hi>Breast,</hi> and that he had such a <hi>Prerogative</hi> that he could <hi>make</hi> and <hi>change</hi> Laws when he pleased.</p>
+               <p>The <hi>Commons</hi> considering the high Consequences which would unavoidably affect the whole Kingdom by the <hi>Invasion</hi> of the <hi>Liberties</hi> of the <hi>City,</hi> they presently took the <hi>Alarm,</hi> and thereupon petition'd the King.</p>
+               <p>
+                  <note place="margin">Jones Rep. <hi>f.</hi> 240. E. Rotulo Parl. tent. apud Westm. die Iu<g ref="char:EOLhyphen"/>nae &amp; prox. ante fest. omnium sanct. RRs. Richar. secund. post Conquest. 7<seg rend="sup">o</seg>
+                     <hi>N.</hi> 37. Item priont les Com<g ref="char:EOLhyphen"/>munes purgreinder qui ete &amp; nurtur de pai<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> perenter vos Lie<g ref="char:EOLhyphen"/>ges &amp; pr. come pro<g ref="char:EOLhyphen"/>fit que vos Citenis de Citeè de Lon<g ref="char:EOLhyphen"/>d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e, soient entirem. en ce present Parle<g ref="char:EOLhyphen"/>ment restituz a eur. Franchises &amp; frank Usages &amp; que il plese a vouz. tres dont Sig<g ref="char:EOLhyphen"/>niory devestre grace especiale granter &amp; confirmer as vos dit Citeins &amp; alers Suc<g ref="char:EOLhyphen"/>cessors per voz Leres Patents touts leurs Libertées &amp; Frank. Usages auxi entire<g ref="char:EOLhyphen"/>ment &amp; pleinement come ils ou leurs Predecessors les avoi<g ref="char:EOLhyphen"/>ent en temps d'aucu<g ref="char:EOLhyphen"/>ne des vòz tresnobles Progenitours, oue clause, <hi>de licet usi non fuerint vel abusi fuerint,</hi> ensemble<g ref="char:EOLhyphen"/>ment oue les Fran<g ref="char:EOLhyphen"/>chises qu'ls ont en especial de vestre tres gracious grant ou confirmencent, nient const<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e steautz au<g ref="char:EOLhyphen"/>cuns estatuz jugge<g ref="char:EOLhyphen"/>ments renduz Ordi<g ref="char:EOLhyphen"/>nances, ou Charters faits ou grants einz ces heures a contrarie si bien en temps davons de voz dites Progenitors come en le vie, issint come le restreint de leur Libertees &amp; Franks Usages ad en plusours maneres accaunt ces h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ures empirez &amp; arreriz. Pestate de eux, &amp; riens value a come profit du Roilme, &amp; que touz les vins &amp; Vitailleas si bien pessoners come auters oue lours Vitailles venantz a vostre dite Citee soient desore enaunt desouz le gouer<g ref="char:EOLhyphen"/>nail &amp; renle del' Mair &amp; Aldermannes de la Citèe avant dit pur les temps esteantz, come auncienement soloient estre &amp; oultre granter que nul Mair de la dite Citèe desore enavant, ne fair ne soit constreint de faire en vestre Eschequer tres doubte seigneur, nailleurs autre serement, mais solment launcien serement use en temps le Roy <hi>Edward</hi> vestre tres nobleaies (qui Dieux assoil) aucun Estatute ou Ordinance au contrarie ent faitz non obstantz.</note>That for the <hi>greater Quiet</hi> and maintenance of Peace between his <hi>Leige People</hi> and for <hi>common Profit,</hi> his <hi>Citizens</hi> of his <hi>City</hi> of <hi>London</hi> should be in the then present Parliament entirely restor'd to their Franchises and free Usages: And that it might please his most Dread Highness of his special Grace to grant and confirm to his said Citizens, and their Successors, by his Letters Patents, all their Liberties and free Usages, as entirely and fully as they, or their Predecessors enjoyed them in the time of any of his most <hi>Noble Progenitors,</hi> with the Clause of <hi>Licet usi non fuerint vel abusi fuerint;</hi> as also with the <hi>Franchises</hi> which they <hi>enjoyed</hi> from his most <hi>Gracious Grant</hi> or <hi>Confirmation,</hi> notwithstanding any Statutes, <hi>Iudgments</hi> given, <hi>Ordinances</hi> or <hi>Charters</hi> late made or granted to the <hi>contrary,</hi> as well in the time of any of his said Progeni<g ref="char:EOLhyphen"/>tors, as in his own Reign: <hi>Because the Restraint of their Liberties and Frank Ʋsages had several ways before that time empaired and put back their Estates, and was not available to the common Pro<g ref="char:EOLhyphen"/>fit of the Realm;</hi> and that all the <hi>Vintners</hi> and <hi>Victualers,</hi> as well <hi>Fishmongers</hi> and <hi>others</hi> with their <hi>Victuals,</hi> coming to his <hi>said City,</hi> should be from thenceforward under the <hi>Rule</hi> and <hi>Gover<g ref="char:EOLhyphen"/>nance</hi> of the <hi>Mayor</hi> and <hi>Aldermen</hi> of the aforesaid <hi>City</hi> for the time being, as <hi>anciently</hi> they were <hi>wont</hi> to be. And further to <hi>grant</hi> that no <hi>Mayor</hi> of the said <hi>City</hi> for the <hi>future</hi> should <hi>take,</hi> nor be <hi>constrained</hi> to <hi>take,</hi> in his Court of <hi>Exchequer,</hi> any <hi>other Oath,</hi> but only the <hi>ancient Oath</hi> used in the <hi>time</hi> of <hi>King Edward</hi> his most Noble Grandfather (whom God absolve) any Sta<g ref="char:EOLhyphen"/>tute or Ordinance to the contrary thereof made notwith<g ref="char:EOLhyphen"/>standing. To which the King answered,<note n="‖" place="margin">
+                     <hi>Vid.</hi> Cart. Concess. Civibus <hi>London.</hi> 7 <hi>R.</hi> 2. &amp; <hi>lib. H.</hi> in Archivis <hi>Lond.</hi> fol. 169.</note>
+                  <hi>De assensu Praelato<g ref="char:EOLhyphen"/>rum, Dominorum, Procerum &amp; Magnatum sibi in eodem Par<g ref="char:EOLhyphen"/>liamento assistentium, <hi>Le Roy, le Voet,</hi>
+                  </hi> So it pleaseth the King.</p>
+               <p>
+                  <note place="margin">H. Knighton Coll. 2740 L. 7. An. Dom. 1392. Walsingham, <hi>fol.</hi> 347.</note>Notwithstanding all which, a <hi>sad Convulsion</hi> fell upon the <hi>City</hi> of <hi>LONDON</hi> in the <hi>sixteenth Year</hi> of that King, the <hi>occa<g ref="char:EOLhyphen"/>sion</hi> of it was <hi>this:</hi> That King having sent to the <hi>City</hi> of <hi>London</hi> to borrow 1000 <hi>l.</hi> and they refusing, a certain <hi>Lumbard</hi> or
+<pb n="13" facs="tcp:50494:8"/>
+                  <hi>Banker</hi> undertook to lend the same, he having other <hi>People</hi>'s Mony in his Hands, and <hi>lending</hi> it <hi>without</hi> their <hi>consent,</hi> they fell upon him, and so beat him, that. it e'en cost him his Life. The <hi>King</hi> hearing this was extreamly <hi>enraged,</hi> and forthwith <hi>summon<g ref="char:EOLhyphen"/>ing</hi> a <hi>great Council of Peers</hi> at <hi>Nottingham,</hi>
+                  <note place="margin">Omnes Regai pe<g ref="char:EOLhyphen"/>ne majo e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note>
+                  <hi>(not a standing Pri<g ref="char:EOLhyphen"/>vy Council)</hi> he acquaints them with the matter, and they ad<g ref="char:EOLhyphen"/>vised him presently to curb the <hi>haughty Insolence</hi> of the <hi>Citizens,</hi>
+                  <note place="margin">Qui omnes infesti Civibus propter di<g ref="char:EOLhyphen"/>versa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> causas consu<g ref="char:EOLhyphen"/>lant.</note> and one of their <hi>principal Reasons</hi> was, because they were great <hi>Favourers</hi> and <hi>Encouragers</hi> of the <hi>Lollards,</hi> (such as we now call <hi>Protestants</hi>).</p>
+               <p>Hereupon the <hi>Mayor</hi> and <hi>Sheriffs</hi> with <hi>several</hi> of the <hi>Alder<g ref="char:EOLhyphen"/>men</hi> were <hi>committed</hi> to the <hi>Castle</hi> of <hi>Windsor,</hi> and the <hi>rest</hi> to <hi>other Castles,</hi> till the King should otherwise by his <hi>said</hi> Council de<g ref="char:EOLhyphen"/>termine.</p>
+               <p>And in that <hi>Great Council</hi> it was <hi>Decreed,</hi>
+                  <note place="margin">
+                     <p>Domini Tempora<g ref="char:EOLhyphen"/>les Regni cuncti &amp; Episcopi fete omnes, nee non exercitus ta<g ref="char:EOLhyphen"/>lis qui merito terrori Londinensium posset esse.</p>
+                     <p>Cives de sub Coelo delere.</p>
+                     <p>Londinenses ergo in medio Miseriarum subito constituti &amp; velut versati inter eadem &amp; malleum, cum non esset locus excusationis.</p>
+                     <p>Decreverunt se po<g ref="char:EOLhyphen"/>tius submittere Regis gratiae, quam suc<g ref="char:EOLhyphen"/>cumbere veridicto vel judicio duodenae.</p>
+                  </note> that a <hi>Custos</hi> should be <hi>set over</hi> the <hi>City:</hi> Shortly after <hi>another Great Council</hi> of <hi>Peers</hi> met at <hi>Windsor,</hi> where were the <hi>Temporal Lords of the whole Kingdom, and almost <hi>all the Bishops,</hi> and such an <hi>Army</hi> drawn together as might justly put the Londoners into Terror and Consternation:</hi> And here it was designed to <hi>blot the Name of a Citizen from under Heaven.</hi> But this was <hi>frustrated</hi> by the Duke of <hi>Lancaster,</hi> and the <hi>Londoners,</hi> when they saw there was no way left for them to make their <hi>legal Defence,</hi> resolved <hi>rebus sic stantibus,</hi> rather to <hi>submit</hi> themselves to the <hi>King's Mercy</hi> than stand to the <hi>Verdict</hi> and <hi>Judgment of twelve Men,</hi> to be summon<g ref="char:EOLhyphen"/>ed to pass upon them after the new way of proceeding by the Statute of 28 <hi>E.</hi> 3. cap. 10. and therefore they <hi>voluntarily</hi> gave the King 10000 <hi>l.</hi> and so were <hi>restored</hi> to their <hi>antient Liberties</hi> and <hi>Customs.</hi>
+               </p>
+               <p>But <hi>Henry</hi> the <hi>Fourth,</hi> soon after coming to the Crown, this <hi>proceeding</hi> against the <hi>City</hi> of <hi>London, Caput Regni &amp; Legum (the like whereof never happened from that time to this day,</hi> being now 290 Years ago) so <hi>startled</hi> all <hi>other Cities</hi> and <hi>Burroughs</hi> of the <hi>Kingdom,</hi> that we find the <hi>care</hi> of <hi>succeeding Parliaments</hi> was very <hi>memorable</hi> as to this <hi>Point</hi> in the Reigns of <hi>Hen.</hi> 4. <hi>Hen.</hi> 5. and <hi>Hen.</hi> 6. and that in the <hi>first Article</hi> sometimes before, and sometimes after the <hi>Confirmation</hi> of the <hi>Rights, Liberties, Fran<g ref="char:EOLhyphen"/>chises,</hi> and <hi>Customs</hi> of <hi>Holy Church,</hi> the two <hi>great Charters,</hi> and <hi>those</hi> of the <hi>Lords</hi> and <hi>Commons;</hi> the <hi>Cities</hi> and <hi>Borroughs</hi> were <hi>always</hi> sure to be <hi>remembred</hi> by them, as you may take notice, if you please to consult these <hi>Statutes,</hi> 4 <hi>Hen.</hi> 4. cap. 1. 7 <hi>Hen.</hi> 4. cap. 1. 9 <hi>Hen.</hi> 4. cap. 1. 3 <hi>Hen.</hi> 5. cap. 1. and 2 <hi>Hen.</hi> 6. cap. 1. I will give you the first of them at large, the others are in effect but repetitions of the same, and therefore I shall only refer you to them for a further Confirmation.</p>
+            </div>
+            <div type="part">
+               <pb n="14" facs="tcp:50494:9"/>
+               <head>
+                  <note place="margin">4. <hi>Hen.</hi> 4. cap. 1.</note>A Confirmation of the Liberties of the Church, and of all Corporations and Persons.</head>
+               <p>
+                  <hi>FIrst, That Holy Church have all her Liberties and Franchises, and that the Lords Spiritual and Temporal,</hi>
+                  <note place="margin">Keeble's Stat. <hi>f.</hi> 195.</note>
+                  <hi>and all the Cities, Buroughs and Towns Franchised, have and enjoy <hi>all their Liberties and Franchises which they have had of the Grant of the Progenitors of our said Lord the King, Kings of</hi>
+                  </hi> England, <hi>and of the Confirmation of the same our Lord the King, and that the great Charter, and the Charter of the Forest, and all the good Ordinances and Statutes made in the time of our said Lord the King, and in the time of his Progenitors, not repealed, be firmly holden and kept.</hi>
+               </p>
+               <p>And for the <hi>Honour</hi> of <hi>Magna Charta,</hi> I will conclude this Head with an Act of Parliament thus (cited by Mr. <hi>Petyt</hi>), viz.</p>
+               <p>
+                  <note place="margin">
+                     <p>
+                        <hi>Mr.</hi> Petyt<hi>'s An<g ref="char:EOLhyphen"/>cient Right of the Commons of</hi> Eng<g ref="char:EOLhyphen"/>land <hi>asserted,</hi> f. 103</p>
+                     <p>Rot. Parl. 12 <hi>Ed.</hi> 4. <hi>n.</hi> Rast. Stat. 12 <hi>Ed.</hi> 4. cap. 7.</p>
+                  </note>
+                  <hi>That valiant and great Prince</hi> Edw. 4. <hi>after the overthrow of his Enemies, and peaceful Possession of the Crown, ass<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ed with the Iudges of</hi> England, <hi>Arch-Bishops, Abbots, Priors, his Dukes, Earls, Viscounts, and Barons, with the Great Men, or Knights of the Counties, and Commons in full Par<g ref="char:EOLhyphen"/>liament, hath left this recorded to Posterity; They call this</hi> Great Charter <hi>the</hi> Laudable Statute <hi>of</hi> Magna Charta, <hi>which</hi> Statute <hi>was made for the great Wealth of this Land; Vpon which</hi> Magna Charta, <hi>the great Sentence and Apostolick Curse by a great number of Bishops was pronounced against the Breakers of the same, and the same Sentence is four times in the Year openly declared, according to the Law of Holy Church, and in affirmance of the said</hi> Statute <hi>of the said</hi> Great Charter <hi>divers Statutes have been made and ordained.</hi>
+               </p>
+               <p>
+                  <hi>And great reason certainly they had to put so high a value on that so famous Charter, since the substantial part of the Laws thereof were no less than the great Results, Decrees, and Iudgments ordained by the Prudence and Iustice of the British, Saxon, and Danish Dynasties, founded upon two grand and principal Bases or Pillars</hi> LIBERTY <hi>and</hi> PROPERTY, <hi>which like those two brazen ones called</hi> Booz <hi>and</hi> Jachin <hi>supporting the Temple of</hi> Solomon, <hi>upheld the tot<g ref="char:EOLhyphen"/>tering Frame and Fabrick of our</hi> ancient Government, <hi>though often by</hi> evil Men <hi>designed to be</hi> overthrown.</p>
+               <p>
+                  <note place="margin">
+                     <p>
+                        <hi>Preface to</hi> Cook's 2 Instit.</p>
+                     <p>Moor<hi>'s Reports</hi> fol. 797. per Popham. Matt. Paris. 839.</p>
+                  </note>
+                  <hi>A Charter</hi> Empta &amp; Redempta, <hi>purchased and redeemed with</hi> vast Treasure <hi>of the</hi> Nation, <hi>and the</hi> Effusion <hi>of a Sea of</hi> Christian Blood: <hi>A Law published and established with fearful Execrations and terrible Curses against the Infringers and Breakers thereof, and all done with that Religious Solemnity, and profound Ceremony, as it may seem inferior only to that of the Commandments of Almighty God, given to the Iewish Nation.</hi> Thus far Mr. <hi>Petyt.</hi>
+               </p>
+               <pb n="15" facs="tcp:50494:9"/>
+               <p>From all which 'tis plain, that by <hi>Prescription</hi> even as <hi>high</hi> as the <hi>Roman <hi>Times,</hi>
+                  </hi>
+               </p>
+               <p n="1">1. <hi>London</hi> was a <hi>famous <hi>City</hi>
+                  </hi> and <hi>Corporation,</hi>
+                  <note place="margin">Co. 2 I<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>stit. <hi>f.</hi> 250.</note> and had <hi>Franchises, Liberties</hi> and <hi>Customs.</hi>
+               </p>
+               <p n="2">2. That <hi>those Franchises, Liberties</hi> and <hi>Customs</hi> out-lived the <hi>Roman Power,</hi> and <hi>descended</hi> to <hi>succeeding Generations.</hi>
+               </p>
+               <p n="3">3. That they <hi>flourished</hi> under the <hi>Saxon</hi> Government. And,</p>
+               <p n="4">4. Were <hi>ratified</hi> and <hi>confirmed</hi> by <hi>Parliament</hi> held in the Reign of <hi>William the First.</hi>
+               </p>
+               <p n="5">5. They were <hi>confirmed</hi> in Parliament by the <hi>Magna Charta</hi>'s of <hi>William</hi> 1. <hi>Hen.</hi> 1. King <hi>Stephen, Hen.</hi> 2. King <hi>John, Hen.</hi> 3. and <hi>Edw.</hi> 1. and by <hi>particular Acts</hi> of <hi>Parliament</hi> of <hi>Ed.</hi> 2. <hi>Ed.</hi> 3. and <hi>Rich.</hi> 2. and by the <hi>general Acts</hi> of <hi>Parliament</hi> of <hi>Hen.</hi> 4. <hi>Hen.</hi> 5. <hi>Hen.</hi> 6. and <hi>Ed.</hi> 4. and that which is of no small concern, is,</p>
+               <p>The <hi>Rights</hi> and <hi>Priviledges</hi> of the City of <hi>London</hi> are ren<g ref="char:EOLhyphen"/>dred inviolable by the General <hi>Coronation Oaths</hi> of the <hi>Saxon Kings,</hi> by the <hi>solemn Oath</hi> of <hi>William the first,</hi> and by the par<g ref="char:EOLhyphen"/>ticular <hi>Coronation Oaths</hi> of <hi>William the Second, Henry the first,</hi> King <hi>Stephen, Richard the first,</hi> King <hi>John, Henry the third,</hi> and <hi>Edw. the first,</hi> and all succeeding Kings down to this day.</p>
+               <p>I shall <hi>not</hi> give you the <hi>trouble</hi> of the several Oaths at <hi>large,</hi> but only recite to you what <hi>principally makes to my point,</hi> refer<g ref="char:EOLhyphen"/>ring you for the <hi>rest</hi> to the <hi>Books</hi> from whence I <hi>collect</hi> them.</p>
+               <p>To begin with the <hi>Oath</hi> of the <hi>Saxon Kings,</hi>
+                  <note place="margin">
+                     <p>
+                        <hi>The Oath of the Saxon Kings.</hi>
+                     </p>
+                     <p>In vit. Aelfredi mag. <hi>f.</hi> 62.</p>
+                     <p>Dei Ecclesiam ac u<g ref="char:EOLhyphen"/>niversum Imperii Po<g ref="char:EOLhyphen"/>pulum Christianum vera Pace fruiturum, omnem{que} iniquita<g ref="char:EOLhyphen"/>tem omnibus ordinibus inter dicturum &amp; mandaturum in omnibus Judiciis Justitiam &amp; Miserecordiam.</p>
+                  </note> which they took at their <hi>Coronation.</hi>
+               </p>
+               <p>It was, <hi>That they would <hi>peaceably</hi> govern the <hi>Church</hi> and the <hi>People</hi> of their Kingdom, and would <hi>forbid</hi> all <hi>Injustice</hi> to all <hi>Or<g ref="char:EOLhyphen"/>ders</hi> of <hi>Men,</hi> and that in all Judgments Justice and Mercy should be mingled together.</hi>
+               </p>
+               <p>
+                  <hi>William</hi> the Conqueror's Oath just before he was crowned, was,</p>
+               <p>
+                  <hi>That he would govern <hi>all</hi> his Subjects with that prudent Care as became a <hi>good King;</hi> Enact, and <hi>Himself</hi> keep <hi>Right Law,</hi>
+                  </hi>
+                  <note place="margin">Promisit se velle cunctum populum si<g ref="char:EOLhyphen"/>bi subjectum justè ac Regali Providentia regere, rectam Legem statuere &amp; tenere, injusta{que} judicia pe<g ref="char:EOLhyphen"/>nitùs interdicere. <hi>Ho<g ref="char:EOLhyphen"/>ved.</hi> pars prima <hi>fol.</hi> 258. <hi>l.</hi> 14. Quod se modestè erga subjectos ageret, &amp; aequo jure Anglos quô Franco<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> tractaret. <hi>Malmesb. lib.</hi> 3. <hi>fol.</hi> 154. <hi>b. lin.</hi> 8.</note>
+                  <hi>and would <hi>interdict</hi> to the utmost of his Power, all <hi>false</hi> Judgments, and that he would <hi>govern both the English and the French by the same Equality of Law,</hi> without respect to either.</hi>
+               </p>
+               <p>
+                  <hi>William</hi> the Second <hi>(in die Coronationis suae)</hi> upon his Co<g ref="char:EOLhyphen"/>ronation, as well by himself,<note place="margin">Coepit tam per se quam per omnes quos poterat fide Sacra<g ref="char:EOLhyphen"/>mento{que} Lanfranco promittere Justitiam, Equitatem &amp; Miseri<g ref="char:EOLhyphen"/>cordiam se per totum Regnum, si Rex fo<g ref="char:EOLhyphen"/>ret, in omni Negotio observaturum, Pacem, Libertatem, securitat, Ecclesiarum contra omnes defensurum. <hi>Eadmer. lib.</hi> 1. <hi>fol.</hi> 13. lin. 51.</note> as by all those whom he could get to <hi>pass</hi> their <hi>Faith</hi> for him, <hi>promised</hi> by <hi>Oath</hi> to <hi>Lanfrank,</hi> Arch<g ref="char:EOLhyphen"/>bishop of <hi>Canterbury <hi>(if he might be King)</hi>
+                  </hi> that <hi>he would <hi>observe</hi> Justice, Equity and Mercy throughout his whole Kingdom,
+<pb n="16" facs="tcp:50494:10"/> and that he would <hi>stand</hi> up in the <hi>Defence</hi> of the <hi>Peace, Liberty</hi> and Security of the Church against all Men.</hi>
+               </p>
+               <p>
+                  <note place="margin">B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nas &amp; sanctas omni Populo Leges se servatur. &amp; omnes Oppressiones &amp; ini<g ref="char:EOLhyphen"/>quitates quae sub fra<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e suo em<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>serant in omni sua Domi<g ref="char:EOLhyphen"/>nat. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>am in Ecclesiis quàm in Secularibus negotiis prohibitu<g ref="char:EOLhyphen"/>rum &amp; subversurum, spospo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>derat<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aec om<g ref="char:EOLhyphen"/>nia ju<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>is-jurandi interjectione firmata sub monimento Litterarum sig. sui Testimonio roboraturum. <hi>Ea. lmer. lib.</hi> 3. <hi>fol.</hi> 55. <hi>lin.</hi> 44.</note>
+                  <hi>Henry</hi> the First upon his Coronation-day <hi>swore</hi> before the <hi>Clergy</hi> and <hi>People,</hi> that <hi>he would keep the <hi>good</hi> and <hi>sacred Laws,</hi> and all his People should have the benefit of them, that through<g ref="char:EOLhyphen"/>out all his Dominion he would forbid all manner of <hi>Oppressions</hi> and Injustice, into which the Nation was sunk in his Brother's Reign, as well in matters belonging to the <hi>Church,</hi> as in those that were <hi>secular,</hi> and all these things he further <hi>corroborated</hi> under his own Hand and Seal.</hi>
+               </p>
+               <p>
+                  <note place="margin">
+                     <p>Omnes E<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>actio<g ref="char:EOLhyphen"/>nes Mischingas &amp; Inj<gap reason="illegible" resp="#keyers" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>itias sive per Vice Comites vel a<g ref="char:EOLhyphen"/>lios quossibet m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>lè ind<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ctus funditùs ex<g ref="char:EOLhyphen"/>tirpo, bonas Leges &amp; antiquas &amp; justas Consuetudinis in Mu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>dris &amp; Plitis &amp; aliis Causis observa<g ref="char:EOLhyphen"/>re vel observari prae<g ref="char:EOLhyphen"/>cipio &amp; constituo.</p>
+                     <p>Juravit &amp; vovit, Sacr. Sanct Evang. &amp; plurimorum sancto<g ref="char:EOLhyphen"/>rum Reliquiis coram eo positis quod rec<g ref="char:EOLhyphen"/>tam Justitiam exer<g ref="char:EOLhyphen"/>cebit in Populo sibi commisso deinde ju<g ref="char:EOLhyphen"/>ravit quod Leges malas &amp; Consuetu<g ref="char:EOLhyphen"/>dines perversas si aliquae sint in Regno suo delebit &amp; bonas custodiet. <hi>Bromp.</hi> 1158. <hi>lin.</hi> 57. <hi>Vid.</hi> Matt. Paris <hi>fol</hi> 153. <hi>lin.</hi> 39.</p>
+                  </note>King <hi>Stephen,</hi> as you may find under his Seal and Charter, <hi>concessit &amp; juramento vovit,</hi> swore <hi>utterly</hi> to <hi>extirpate</hi> all <hi>Ex<g ref="char:EOLhyphen"/>actions,</hi>
+                  <q>Miskennings, and Injustices illegally introduced either by Sheriffs or any other whomsoever; That <hi>he</hi> would observe <hi>himself,</hi> and command and cause to be observed the <hi>good</hi> and <hi>ancient Laws</hi> and <hi>just Customs,</hi> in Murders, Pleas, and other Causes.</q>
+               </p>
+               <p>
+                  <hi>Richard</hi> the First, the <hi>Oath</hi> he took at the <hi>high Altar</hi> in <hi>West<g ref="char:EOLhyphen"/>minster-Abby</hi> is thus <hi>Registred</hi> in <hi>Brompton:</hi>
+                  <q>He swore and vowed upon the holy Evangelists, and the Reliques of several Saints, that he would execute upright Justice to his <hi>People</hi> committed to his care, and that he would abrogate and disannul all <hi>Evil Laws</hi> and wrongful Customs, if there should be any found within his Kingdom, and that he would <hi>observe</hi> and <hi>maintain</hi> those that were <hi>good</hi> and <hi>laudable.</hi>
+                  </q>
+               </p>
+               <p>
+                  <q>
+                     <hi>Henry</hi> the Third <hi>swore,</hi> That he would likewise, see that up<g ref="char:EOLhyphen"/>right Justice should be administred to his People committed to his Charge,<note place="margin">
+                        <p>Quod in Populosi<g ref="char:EOLhyphen"/>bi commisso rectam Justitiam tenebit, quod{que} Leges malas &amp; iniquas Consue<g ref="char:EOLhyphen"/>tudines si quae sint in Regno suo delebit &amp; bonas observabit &amp; ab omnibus faciet observa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>i. <hi>Mat. Paris</hi> fol. 289. <hi>l.</hi> 25.</p>
+                        <p>Ego Edw. Filius &amp; Haeres Hen<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ici Reg. prositeor, consiteor &amp; promitto coram Deo &amp; Angelis ejus amo<g ref="char:EOLhyphen"/>do &amp; deinceps Le<g ref="char:EOLhyphen"/>gem &amp; Justitiam pa<g ref="char:EOLhyphen"/>cem{que} sacrae Dei Ec<g ref="char:EOLhyphen"/>clesiae Populo{que} mi<g ref="char:EOLhyphen"/>hi subjecto sine re<g ref="char:EOLhyphen"/>spectu servare, sicut cum Consilio Fideli<g ref="char:EOLhyphen"/>um nostrorum inve<g ref="char:EOLhyphen"/>nire poterimus, Pon<g ref="char:EOLhyphen"/>tificibus quo{que} Ec<g ref="char:EOLhyphen"/>clesiae Dei condignum &amp; canonic. Honorem exhibere, quae ab Imperatoribus &amp; Regibus Ecclesiae sibi commissis collata sunt inviolabile conservare, Abbatibus &amp; Vasis Divinis congruum honorem secundum Fidelium nostro<g ref="char:EOLhyphen"/>rum, <hi>&amp;c.</hi> sicut Deus me adjuvet &amp; sacra Dei Evangelia caetera desiderant. <hi>Cam.</hi> Brit. Annal. Hybern. <hi>f.</hi> 800.</p>
+                     </note> and that he would abolish and extirpate all <hi>bad</hi> and <hi>wicked</hi> Laws and Customs if there should be any found within his Kingdom, and <hi>observe</hi> the <hi>good,</hi> and cause all Men else to <hi>observe</hi> and <hi>keep</hi> them.</q>
+               </p>
+               <p>
+                  <hi>Edward</hi> the First, his Coronation <hi>Oath</hi> was thus <q>— <hi>Ego Edwardus Filius &amp; Haeres Henrici Regis,</hi> &amp;c. I <hi>Edward,</hi> the Son and Heir of King <hi>Henry,</hi> do profess, declare and promise before God and his Angels, That from henceforth I will exe<g ref="char:EOLhyphen"/>cute <hi>Law, Iustice</hi> and <hi>Peace</hi> to the Holy Church of God, and to the <hi>People</hi> over whom I have the Charge, without any respect, as We shall be able to discern with the Advice of our <hi>Parliament;</hi> and also to the Priests of God's Holy Church, will exhibit, and pay all befitting and canonical Honour, and inviolably preserve whatsoever hath been conferr'd upon the Church by Emperors and Kings committed to them, as also to
+<pb n="17" facs="tcp:50494:10"/> the Abbots and holy Vessels a becoming Honour according to our Counsellours, <hi>&amp;c.</hi> So God me help and his holy Gospel.</q> The rest of the Oath is wanting, but much desired.</p>
+               <p>I shall give you the next <hi>Oath</hi> at full length, and it is that of <hi>Edward</hi> the Second.</p>
+               <q>
+                  <floatingText xml:lang="fre">
+                     <body>
+                        <div type="oath">
+                           <opener>
+                              <salute>SIRE,</salute>
+                           </opener>
+                           <p>Voulez vous granter &amp; garder &amp; par vostre serment confirmer au People d' Engleterre les Leys &amp; les Custumes a eux granteez par les anciens Roys d' Engleterre voz Predecessours droitz &amp; devoutez à Dieu &amp; nomement les Leys les Custumes &amp; les Franchises grantez au Clergie &amp; au People par le glorieus Roy Seint <hi>Edward</hi> vostre Predecessour.<note place="margin">Rot. Claus. 1 <hi>E.</hi> 2. <hi>m.</hi> 10. pars unica.</note>
+                           </p>
+                           <p>Responsio Regis, Jeo les grant &amp; promet.</p>
+                           <p>Episcopus, Sire, Garderez vouz à Dieu &amp; Seint Eglise, au Clergie, &amp; au People Pees, &amp; accord. en Dieu entirement solonc. vostre poer.</p>
+                           <p>Responsio Regis, Jeo les Garderai.</p>
+                           <p>Episcopus, Sire, Freez vous en toutz voz Jugements ouele &amp; droit Justice &amp; discretion en Mesericord. &amp; Veritè à vostre Poer.</p>
+                           <p>Responsio Regis, Jeo les frai.</p>
+                           <p>Episcopus, Sire, Granterez vouz à tenir &amp; gardir les Leys &amp; les Custumes droitereles les quels la Communalte de vostre Roiaume avera esleus &amp; les defenderez &amp; afforcerez al honeur de Dieu à vostre Poer.</p>
+                           <p>Responsio, Jeo les grant &amp; promette.</p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>'Tis true, this is the <hi>first Coronation Oath</hi> that I meet with upon <hi>Record, formally entred;</hi> yet I doubt not, had the <hi>Records</hi> of <hi>former Kings</hi> been <hi>preserved</hi> and left to <hi>Posterity,</hi> but we should have <hi>found</hi> them much what the <hi>same</hi> with this. The <hi>Monkish Writers,</hi> as in <hi>this King's Coronation,</hi> so in <hi>others precedent,</hi> give only a <hi>summary Account</hi> of them, <hi>more Historico.</hi>
+               </p>
+               <p>And as <hi>this Oath</hi> is the <hi>first compleat one</hi> I meet with, so for <hi>fear</hi> least <hi>all</hi> may <hi>not understand</hi> it, as it is in its <hi>Original Language,</hi> I will take the pains to give it them in <hi>English,</hi>
+               </p>
+               <p>
+                  <q>
+                     <hi>Sire,</hi> Will you grant and keep, and by your Oath, con<g ref="char:EOLhyphen"/>firm to the People of <hi>England,</hi> the Laws and Customs to them granted by the ancient Kings of <hi>England,</hi> your lawful and reli<g ref="char:EOLhyphen"/>gious Predecessors, and namely the Laws, Customs, and Fran<g ref="char:EOLhyphen"/>chises
+<pb n="18" facs="tcp:50494:11"/> granted to the Clergy and to the People, by the glori<g ref="char:EOLhyphen"/>ous King Saint <hi>Edward,</hi> your Predecessor.</q>
+               </p>
+               <p>The King's Answer.</p>
+               <p>
+                  <hi>I grant, and promise to keep them.</hi>
+               </p>
+               <p>
+                  <hi>The Bishop.</hi> Sire, <hi>Will you keep Peace and Agrement entirely according to your Power, both to God, the Holy Church, the Clergy, and the People?</hi>
+               </p>
+               <p>The King's Answer.</p>
+               <p>
+                  <hi>I will keep it.</hi>
+               </p>
+               <p>
+                  <hi>The Bishop.</hi> Sire, <hi>Will you, to your Power, cause Law, Justice, and Discretion in Mercy and Truth to be executed in all your Judgments?</hi>
+               </p>
+               <p>The King's Answer.</p>
+               <p>
+                  <hi>I will.</hi>
+               </p>
+               <p>
+                  <hi>The Bishop.</hi> Sire, <hi>Will you grant to hold and keep the Laws, and rightful Customs, which the Commonalty of your Kingdom have, and to defend and uphold them to the Honour of God so much as in you lies?</hi>
+               </p>
+               <p>
+                  <hi>The King's Answer.</hi>
+               </p>
+               <p>I grant and promise so to do.</p>
+               <p>
+                  <hi>And this done,</hi> the King <hi>swore</hi> to the <hi>Observation</hi> of what he <hi>promised</hi> upon the <hi>Altar.</hi>
+               </p>
+               <p>
+                  <note place="margin">In Rot. Claus. 1 <hi>E.</hi> 3. pats prima. <hi>m.</hi> 24 in dorso.</note>As to the <hi>Oath</hi> of <hi>Edward</hi> the 3d, Son and Successor of <hi>Ed<g ref="char:EOLhyphen"/>ward</hi> the 2d, it is <hi>entred</hi> likewise in <hi>French</hi> in the <hi>like Form.</hi>
+               </p>
+               <p>
+                  <hi>Richard</hi> the Second, his Coronation-Oath.</p>
+               <p>
+                  <note place="margin">
+                     <hi>The Oath is to be seen in</hi> Rot. Claus. 1 <hi>R.</hi> 2. <hi>m.</hi> 44. Sacr. Dom. Regis Corpo<g ref="char:EOLhyphen"/>rale de concedendo &amp; servando cum sacra Confirmatione Leges &amp; Consuetudines ab antiquis, justis &amp; De<g ref="char:EOLhyphen"/>o devotis Regibus Angliae Progenitori<g ref="char:EOLhyphen"/>bus ipsius Regis Ple<g ref="char:EOLhyphen"/>bi Regni Angliae con<g ref="char:EOLhyphen"/>cessio &amp; praesertim Leges, Consuetudines, &amp; Libertates a gloriosissimo &amp; sanctissimo Rege, <hi>Edwardo</hi> Clero, Po<g ref="char:EOLhyphen"/>pulo{que} Regni praedict. concessis.</note>As to that particular which concerns this Point, is this: <q>That he would confirm and religiously keep the <hi>Laws</hi> and <hi>Customs</hi> granted by the ancient, just, and devout Kings of <hi>England,</hi> the Progenitors of the said King, to the People of the Kingdom of <hi>England,</hi> and especially the Laws, Customs, and Liberties granted by the most glorious and most <hi>holy</hi> King <hi>Edward</hi> to the <hi>Clergy</hi> and <hi>People</hi> of the aforesaid Kingdom.</q> But the formal Oath of this King <hi>Richard</hi> is enrolled in the <hi>Parliament Roll</hi> of 1 <hi>H.</hi> 4. <hi>N.</hi> 16, 17.</p>
+               <pb n="19" facs="tcp:50494:11"/>
+               <p>Which form <hi>agrees</hi> with that of <hi>Edward</hi> the <hi>Second,</hi> and <hi>Ed<g ref="char:EOLhyphen"/>ward</hi> the <hi>Third,</hi> and the <hi>like form</hi> as to substance hath been <hi>ob<g ref="char:EOLhyphen"/>served</hi> even <hi>down</hi> to <hi>our time</hi> by all <hi>succeding Kings.</hi>
+               </p>
+               <p>Now to <hi>imagine</hi> that after <hi>so much Treasure</hi> paid to the <hi>Crown</hi> by the <hi>Citizens</hi> of <hi>London</hi> for their <hi>Liberties;</hi> after <hi>so many Confir<g ref="char:EOLhyphen"/>mations</hi> of them by the <hi>Charters</hi> of <hi>so many Kings</hi> of <hi>England;</hi> and those <hi>back'd</hi> with <hi>so many Acts of Parliament;</hi> and <hi>all</hi> further <hi>strengthened</hi> and <hi>corroborated</hi> by the <hi>Coronation-Oaths</hi> of <hi>all these <hi>Kings:</hi>
+                  </hi> To imagine I say, after all this, that so <hi>Antient</hi> and <hi>Famous</hi> a <hi>City as <hi>London</hi>
+                  </hi> can be <hi>destroyed</hi> and <hi>annihilated</hi> in two or three <hi>Terms,</hi> after <hi>so many Centuries</hi> of Years by <hi>any Power less</hi> than that of <hi>Parliament,</hi> and become a <hi>common Vill</hi> as <hi>Isling<g ref="char:EOLhyphen"/>ton,</hi> &amp;c. is so <hi>strange</hi> a piece of <hi>Extravagance,</hi> that I <hi>wonder</hi> how it can ever meet with a <hi>favourable Entertainment</hi> in the <hi>Mind</hi> of <hi>any,</hi> that will give themselves the <hi>liberty</hi> but of <hi>half</hi> an hour's <hi>serious Consideration</hi> upon the <hi>matter;</hi> For I dare be bold to <hi>affirm,</hi> that there cannot <hi>any such President</hi> be found, not only, I say <hi>against</hi> the <hi>Rights</hi> of this <hi>Renowned City</hi> of <hi>London,</hi> but of <hi>any other City, or Town Corporate,</hi> or other <hi>body Politick</hi> in all <hi>Records, Histories,</hi> or <hi>Law-books</hi> to <hi>this instant</hi> of time.</p>
+               <p>I shall now proceed to acquaint you with the <hi>Statute</hi> of the 1st of King <hi>James,</hi> and the <hi>Petition</hi> of <hi>Right,</hi> and give you some few Observations deduced from them, and so upon the <hi>whole</hi> leave every Man to <hi>think,</hi> or <hi>act,</hi> as his <hi>Judgment, Ho<g ref="char:EOLhyphen"/>nour, Loyalty,</hi> and <hi>Conscience</hi> shall best <hi>direct</hi> and <hi>influence him.</hi>
+               </p>
+               <p>It was the <hi>Solemn Declaration</hi> of King <hi>James,</hi> and that <hi>con<g ref="char:EOLhyphen"/>firm'd</hi> by the <hi>greatest Authority</hi> of the Kingdom, <hi>himself</hi> being <hi>present</hi> in <hi>Parliament.</hi>
+               </p>
+               <p>
+                  <q>That to <hi>alter</hi> or <hi>innovate</hi> the <hi>fundamental</hi> and <hi>antient</hi> Laws, Priviledges, and good Customs of this <hi>Kingdom,</hi>
+                     <note place="margin">Parl. Stat. 1 <hi>Jac.</hi> c. 2.</note> wereby not only the Royal Authority, but the People's secu<g ref="char:EOLhyphen"/>rity of Lands, Livings, and Priviledges both in gene<g ref="char:EOLhyphen"/>ral and particular are preserved and maintained: He said, To alter them, it was impossible, but that present Confusion should fall upon the whole State and Frame of this Kingdom.</q>
+               </p>
+               <p>And in the <hi>Declaration</hi> of <hi>divers Rights</hi> and <hi>Priviledges</hi> of the <hi>People</hi> in the third Year of <hi>King Charles</hi> the <hi>First,</hi>
+                  <note place="margin">
+                     <hi>Petition of Right,</hi> 3 Car. 1.</note> that <hi>glo<g ref="char:EOLhyphen"/>rious Martyr;</hi> It is declared, <q>That the Subjects ought to be governed by the Laws and free Customs of the <hi>Realm,</hi> and that no Offender of what kind soever is exempted from the Proceedings to be used, and Punishments to be inflicted by the Laws and Statutes of this Realm; and that all the King's Officers and Ministers should serve him according to the Laws, and Statutes of the <hi>Realm,</hi> as they tendred the Honour of his Majesty, and the Prosperity of his Kingdom.</q>
+               </p>
+               <pb n="20" facs="tcp:50494:12"/>
+               <p>And thus have we in short, seen the <hi>Force</hi> and <hi>Power</hi> of the sacred Coronation-Oaths both of the <hi>Saxon, Norman</hi> and <hi>English</hi> Kings, and deliver'd the great Judgment of King <hi>James,</hi> and his present Majesty's most Blessed Father, That there are <hi>fundamental</hi> and <hi>ancient Laws</hi> and <hi>Customs</hi> of the <hi>Kingdom,</hi> whereby both the <hi>Royal</hi> Authority, and the <hi>People</hi>'s Security of their Lives and Estates, both in general and particular, have been preserved and maintained, which whensoever invaded, it was impossible but that a dreadful Desolation should fall upon the whole Kingdom.</p>
+               <p>Thus have we seen that the <hi>Subjects</hi> of <hi>England</hi> ought to be <hi>governed</hi> by the <hi>Laws</hi> and <hi>free Customs</hi> thereof, and that <hi>all</hi> the King's <hi>Ministers</hi> ought to make the <hi>Laws</hi> and <hi>Statutes</hi> of the <hi>Realm</hi> the measure of their <hi>Actions,</hi> and if they do contrary to them, they are not to be exempted from due Punishments; and that these are fundamental <hi>Principles</hi> of the <hi>English</hi> Mo<g ref="char:EOLhyphen"/>narchy, I shall beg the Reader's Favour to present him with some few Instances.</p>
+               <p>The Lawyers say, and that most justly, That he <hi>Law</hi> of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> is founded upon <hi>Reason:</hi> We have had many Kings endow<g ref="char:EOLhyphen"/>ed with excellent Science, but (as my Lord <hi>Cook</hi> says of King <hi>James</hi>) <q>Not learned in the Laws of the Realm of <hi>England;</hi>
+                     <note place="margin">
+                        <hi>Cook</hi>'s 12. Rep. <hi>f.</hi> 65.</note> and Causes which concern the Life, or Inheritance, or Goods, or Fortunes of the <hi>Subject,</hi> they are not to be decided by Natural Reason, but by the Artificial Reason and Judgment of Law, which Law is an Act which requires long Study and Experience before that a Man can attain to the Cognizance of it, and the Law is the golden Met-wand and Measure to try the Causes of the Subjects, and which protects the King in Safety and Peace.</q>
+               </p>
+               <p>From this <hi>Consideration</hi> proceeds the <hi>Rule</hi> of <hi>Law,</hi>
+                  <note n="(a)" place="margin">Le Roi ne ser<g ref="char:EOLhyphen"/>ra conclude à m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n<g ref="char:EOLhyphen"/>stre ou à di<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e le ve<g ref="char:EOLhyphen"/>ritie mes le Ley ad<g ref="char:EOLhyphen"/>judgera luy pl is<g ref="char:EOLhyphen"/>tost. d'estre deceive <hi>Cook</hi>'s 1 Rep. <hi>f</hi> 43 <hi>a.</hi>
+                  </note>
+                  <hi>That the King in pleading, shall not be concluded to shew or to say the Truth, but the Law judges him very often to be deceived.</hi>
+               </p>
+               <p>
+                  <note n="(b)" place="margin">Le Roy ne <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oit fair <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ort, ne son <hi>Pre<g ref="char:EOLhyphen"/>rogative</hi> voet<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>estre asc. un <hi>garruntie</hi> à lui de fair inju<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ie al autre, <hi>Altonwood's Case.</hi> 1 Rep. <hi>f.</hi> 44. <hi>b. Vid.</hi> Plowd. Com. <hi>f.</hi> 247. <hi>a.</hi>
+                  </note>The King can do no Wrong, neither will his Prerogative be any Warrant to Him to do any Injury to another.</p>
+               <p>
+                  <note place="margin">Est le dutie de Sub<g ref="char:EOLhyphen"/>jects a v<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ier que le Roy soit verement enformè, Car le Roy ad le Charge del Bi<g ref="char:EOLhyphen"/>en publique &amp; pur ceo ne poet entend. ses private besoignes, &amp; les grants que il fait, il fait come Roi &amp; il doit estre issint instruct que son purpose &amp; intent. prendra effect. <hi>Cook</hi>'s 1 Rep. <hi>fol.</hi> 52. <hi>a.</hi>
+                  </note>It being the duty of Subjects to see that the King be truly informed, for he hath the Charge of the Publick-Weal, and therefore he cannot attend his private Businesses, and the Grants that he makes, he makes as King, and therefore as King, he ought to be so instructed that his Purpose and Intent should take Effect.</p>
+               <pb n="21" facs="tcp:50494:12"/>
+               <p>If he makes a Charter, <hi>de gratia speciali, certa Scientia &amp; mero motu,</hi>
+                  <note place="margin">Idem <hi>fol.</hi> 53. <hi>a.</hi>
+                  </note> and that is solemnly confirmed under the <hi>Great Seal</hi> of <hi>England,</hi> yet those Clauses, <hi>Non valent in illis in quibus praesumi<g ref="char:EOLhyphen"/>tur, Principem esse ignorantem,</hi> are of no force, as to those things in which it is presumed that the King is ignorant, and therefore the Courts of <hi>Westminster-Hall,</hi> notwithstanding such Charter so solemnly made and ratified, when it appears that the King was deceived in Law, have adjudged them to be void: And in the great Case of 28 <hi>H.</hi> 8. in Parliament, when the Bishops of <hi>Salis<g ref="char:EOLhyphen"/>bury</hi> and <hi>Worcester,</hi> being two Foreigners, were deprived of their Bishopricks, it was declared by Act of Parliament,<note place="margin">Act Parl. 28. <hi>H.</hi> 8. <hi>n.</hi> 28.</note> That the King having no Knowledg nor other due Information or In<g ref="char:EOLhyphen"/>struction of the Statute of <hi>Provisors,</hi> had, contrary to those Sta<g ref="char:EOLhyphen"/>tutes, nominated and preferred <hi>Lawrence Campegius</hi> and one <hi>Hierome</hi> to those Sees.</p>
+               <p>In the Message sent by <hi>Ed.</hi> 6. and his Council,<note place="margin">Fox's Martyrol. 2 <hi>vol.</hi> p. 668. 1 <hi>Col.</hi>
+                  </note> to the Rebels in <hi>Devonshire,</hi> The Council tell them that the six Articles were taken away by Parliament; <q>Dare then, say they, any of you with the name of a Subject, stand against an Act of Parliament, a Law of the whole Realm? What is our Power, if Laws should be thus neglected; yea, what is your Surety, if Laws be not kept?</q>
+               </p>
+               <p>
+                  <hi>Stephen Gardiner</hi> Bishop of <hi>Winchester,</hi>
+                  <note place="margin">Id. in eodem volum, <hi>fol.</hi> 2. <hi>col.</hi> 1.</note> in his Letter to the Lord Protector, the Duke of <hi>Somerset,</hi> in <hi>Edw.</hi> 6. time, writes thus: <q>Now whether the King may command against an Act of Parliament, and what danger they may fall in that break a Law with the King's Consent, I dare say, no Man alive at this day hath had more experience, what the Judges and Lawyers have said, than I.</q>
+               </p>
+               <p n="1">1. I had Experience in my old Master the Lord <hi>Cardinal,</hi> who obtained his Legacy by our late Soveraign Lord's Request at <hi>Rome,</hi> and in his Sight and Knowledg occupied the same with his two Crosses and Maces born before him many Years, yet because it was against the Laws of the Realm, the Judges concluded the Offence of the <hi>Praemunire.</hi>
+               </p>
+               <p>For which when he was indicted in the King's Bench,<note place="margin">
+                     <p>
+                        <hi>Dr.</hi> Burnet<hi>'s Re<g ref="char:EOLhyphen"/>form.</hi> 1 Vol. fol. 80. <hi>Anno</hi> 1529.</p>
+                     <p>Fox <hi>Vol.</hi> 2. fol. 253. <hi>col.</hi> 2.</p>
+                  </note> though he pleaded his Ignorance of the Statute of <hi>Praemunire,</hi> yet that would not help him, but he was forced to submit himself to the Law, whereupon it was declared in a great Council convened at <hi>Windsor</hi> by all the Lords, and other the King's Council, that he was out of the King's Protection, that he had forfeited his Goods and Chattels, and that his Person might be seized on.</p>
+               <p>And notwithstanding his Allowance made by the King of his Legantine Power, to which the whole Clergy of <hi>England,</hi>
+                  <pb n="22" facs="tcp:50494:13"/> knowing the King's declared Pleasure therein, submitted; yet they were all indicted in a <hi>Praemunire</hi> in the King's Bench, for that Submission, though by the King's Consent, to the illegal Power of the Legate, and thereby breaking the Statutes against <hi>Provisions</hi> or <hi>Provisors:</hi> nay, it appears in the Rolls that seve<g ref="char:EOLhyphen"/>ral Commissions were granted under the <hi>Great Seal</hi> in Sup<g ref="char:EOLhyphen"/>portation of that Authority, but all in vain: The King could do no wrong, he was misconusant of the Law, nor had he power of himself to alter, suspend, or repeal it, and therefore it was in vain for the Clergy to pretend it was a publick and an allowed Error, and that the King had not only connived at the Cardinal's Proceedings, but had made him all the while his chief Minister,<note place="margin">
+                     <hi>Dr.</hi> Burnet<hi>'s</hi> 1 <hi>Vol.</hi> fol. 112, 113. <hi>Anno.</hi> 1531. 30 H. 8.</note> that therefore they were excusable in submitting to an Authority to which the King gave so great Incouragement, and that if they had done otherwise, they had been unavoidably rui<g ref="char:EOLhyphen"/>ned. But it was answered, that the Laws were still in force, and that their Ignorance could not excuse them, since they ought to have known the Law; yet since the Violation of it was so publick, tho the Court proceeded to a Sentence that they were all out of the King's Protection, and were liable to the Pains in the Statute, the King was willing upon a reasonable Composition, and a full submission, to Pardon them: but before that was done, they were forced in the Convocation to acknowledg the King Supream Head of the Church, and the Province of <hi>Canterbury</hi> to pay 100000 <hi>l.</hi> in lieu of all Punishments which they had incurred by going a<g ref="char:EOLhyphen"/>gainst the Statutes of <hi>Provisors,</hi> and the Province of <hi>York</hi> 18840 <hi>l.</hi> with another Submission of the same nature, and so <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> had a general Pardon confirmed by Act of Parliament.</p>
+               <p>From all which, it may be observed how careful the King's Ministers ought to be in preserving and keeping inviolable the sacred Coronation-Oaths of their Princes, with which by Law they are in a special manner <hi>intrusted;</hi> and when they have forgot the duty of their own Oath and Office, it is the Happi<g ref="char:EOLhyphen"/>ness and Safety of both <hi>Prince</hi> and <hi>People,</hi> that in <hi>all <hi>Ages</hi>
+                  </hi> there hath still been a <hi>Court Soveraign</hi> to call them to a strict and severe <hi>Account,</hi> and to make them memorable <hi>Examples,</hi> not only to the present, but to all <hi>future</hi> Generations.</p>
+               <p>I shall pass over the <hi>Punishment</hi> upon the <hi>Justices</hi> in King <hi>Alfred</hi>'s time (which you may read at your leasure in the <hi>Miror</hi> of <hi>Justice</hi>) and shall come to the <hi>nearer</hi> Times of our own <hi>Norman</hi> and <hi>English</hi> King's and I'll begin with,<note place="margin">Horn. <hi>Miror of Justice,</hi> p. 239, 240. 241, 243, 244.</note>
+               </p>
+               <p n="1">1. One <hi>Ralph Flambard</hi> in the Reign of <hi>William</hi> the <hi>Second,</hi> who was a Man of a mean <hi>Extraction,</hi> being the Son of <hi>Turstin,</hi> a common secular Priest of <hi>Bayon</hi> in <hi>France,</hi> who by <hi>infamous Flattery</hi> and <hi>crafty Accusations,</hi> got himself advanced to the <hi>Bishoprick</hi> of <hi>Durham,</hi> Treasurer of <hi>England,</hi> and <hi>Primier Mi<g ref="char:EOLhyphen"/>nister</hi> of <hi>State,</hi> of whose <hi>execrable Villanies</hi> both <hi>Malmesbury,
+<pb n="23" facs="tcp:50494:13"/> Ordericus Vitali,</hi> and <hi>Matthew Paris,</hi>
+                  <note place="margin">Malmesb. <hi>fol.</hi> 88. Order. Vital. <hi>f</hi> 6<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>8. Matt. Paris. <hi>fol.</hi> 56.</note> give a large Account (to whom because I design brevity, I will refer the Reader) at last this <hi>Flambard, <hi>ad omne scelus paratus,</hi>
+                  </hi> a Man dextrous in all Wickedness and Villany, was in Parliament 1 <hi>Hen.</hi> 1.<note place="margin">Parl. 1 <hi>H.</hi> 1. Com<g ref="char:EOLhyphen"/>muni Concilio Gen<g ref="char:EOLhyphen"/>tis <hi>Anglorum.</hi>
+                  </note>
+                  <hi>im<g ref="char:EOLhyphen"/>peached,</hi> and by the <hi>Common Council</hi> of <hi>England</hi> committed to the <hi>Tower,</hi> from whence <hi>Custodibus suis pecunia corruptis,</hi> by cor<g ref="char:EOLhyphen"/>rupting his Keepers he slipt Coller, made his Escape and fled into <hi>Normandy.</hi>
+               </p>
+               <p n="2">2. <hi>Henricus de Bathonia</hi> in the 34 <hi>H.</hi> 3. was one of the <hi>Iusti<g ref="char:EOLhyphen"/>ces</hi> of the <hi>Common Pleas,</hi> and <hi>Conciliarius specialis Regis,</hi> a Man very learned in the Laws of the Land,<note place="margin">Matt. Paris. <hi>f.</hi> 811, 814, 820.</note> he was accused for being <hi>Domini Regis subdolus subplantor in Officio Justiciariae sibi Com<g ref="char:EOLhyphen"/>misso,</hi>
+                  <note place="margin">Stimulatus ac vo<g ref="char:EOLhyphen"/>luntarius adeo tur<g ref="char:EOLhyphen"/>pibus, per fas &amp; nefas, emolumentis inhia<g ref="char:EOLhyphen"/>bat, ut in una sola itineratione plus, ut dicebatur, quàm du<g ref="char:EOLhyphen"/>centas libratas terrae sibi appropriaret.</note> a cunning Supplantor of his Soveraign Lord the King in his Office of <hi>Justiciar</hi> committed to him, and that by <hi>natural</hi> Inclination he was, right or wrong, so gaping after <hi>Bribery</hi> and <hi>Corruption,</hi> that in one bare Journey of a <hi>Circuit</hi> it was reported he appropriated to himself above 200 <hi>pounds worth</hi> of Land, (no mean Sum in that Age) and the King <hi>reputans causam hanc crimen Lesae Majestatis,</hi> looking upon him for this no less than <hi>guilty</hi> of <hi>high</hi> Treason, he was in the <hi>Parliament</hi> following im<g ref="char:EOLhyphen"/>peached at the Suit of the King, charging him among other things,<note place="margin">Imponens eidem inter caetera quod totum Regnum per<g ref="char:EOLhyphen"/>turbavit &amp; <hi>Barnagi<g ref="char:EOLhyphen"/>um universum</hi> con<g ref="char:EOLhyphen"/>tra ipsum Regem ex<g ref="char:EOLhyphen"/>asperavit, unde sedi<g ref="char:EOLhyphen"/>tio generalis immi<g ref="char:EOLhyphen"/>nebat.</note> that he was a <hi>Disturber</hi> and an <hi>Aggrievor</hi> of the <hi>whole</hi> Kingdom, and that he <hi>stirr'd</hi> up the <hi>whole Parliament</hi> against him, by reason whereof a general Sedition might very likely have ensued. I find no Judgment given, but this is certain, that the King was so enrag'd against him, that he openly decla<g ref="char:EOLhyphen"/>red, <hi>Ʋt siquis Henricum de Barthonia occideret, quietus sit à morte ejus, &amp; quietum eum protestor,</hi> that if any body would but kill this <hi>Henry de Barthonia,</hi> he should be discharged of his Death, and secur'd by the King; but at last, <hi>pro duabus millibus marca<g ref="char:EOLhyphen"/>rum, plene reconciliatus fuit,</hi> a good round Fine got his Pardon, and he was fully reconcil'd to the King.</p>
+               <p n="3">3.<note place="margin">Judicium reddi<g ref="char:EOLhyphen"/>tum versùs Justi<g ref="char:EOLhyphen"/>ciarios &amp; alios Mini<g ref="char:EOLhyphen"/>stros Dom. Regis in Parliamento 18 <hi>E.</hi> 1.</note>The <hi>memorable</hi> Judgment that was given in the <hi>Parlia<g ref="char:EOLhyphen"/>ment</hi> of 18 <hi>Ed.</hi> 1. against the <hi>Iusticiars</hi> and <hi>others</hi> of the King's <hi>Ministers</hi> for their <hi>intolerable <hi>Injuries</hi>
+                  </hi> and <hi>Oppressions</hi> committed both on <hi>Church</hi> and <hi>State,</hi> contrary to the <hi>Great Charters</hi> so many times <hi>purchased</hi> and redeemed, <hi>granted</hi> and <hi>confirmed</hi> to the <hi>Subjects</hi> by the several <hi>Oaths</hi> of <hi>Ed.</hi> 1, <hi>Hen.</hi> 3. and King <hi>John,</hi> and <hi>corroborated</hi> by the dreadful <hi>thundring</hi> out of the <hi>Sentence</hi> of <hi>Excommunication</hi> against the <hi>Invaders</hi> of the <hi>Common Liberties</hi> of <hi>England</hi> contained in them; that those <hi>Criminals</hi> had <hi>subtilly</hi> and <hi>maliciously</hi> by divers Arguments of Covetousness and intollerable Pride, incited the King against his faithful Subjects, and <hi>counselled</hi> him, <hi>contrary</hi> to the <hi>good</hi> and wholsome <hi>Advice</hi> of his <hi>Parliaments,</hi> and had not been afraid <hi>impudently</hi> to assert and <hi>prefer</hi> their own <hi>foolish</hi> Counsels, as if they were more fit to consult about, <hi>and to preserve the Common-Wealth, than all the Estates of the Kingdom assembled together;</hi> that
+<pb n="24" facs="tcp:50494:14"/> they had <hi>troubled</hi> the Land,<note place="margin">
+                     <hi>Ex Chron. ab An. 1272. 1</hi> Ed. <hi>1 ad An. 1317. 10</hi> Ed. <hi>2.</hi> m. <hi>8.</hi> The Secu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ity of Eng<g ref="char:EOLhyphen"/>lish Men's Lives, or the Trust, Power, and Duty of the <hi>Grand-Jury</hi> of <hi>Eng<g ref="char:EOLhyphen"/>land.</hi> pag. <hi>156.</hi> to the End.</note> and <hi>disturbed</hi> the Nation, grievously oppressed the <hi>People,</hi> and under <hi>pretence</hi> of <hi>expounding</hi> the ancient <hi>Laws</hi> had introduced new and <hi>evil Customs;</hi> so that through the <hi>Ignorance</hi> of some, and <hi>Partiality</hi> of others (who either for <hi>re<g ref="char:EOLhyphen"/>ward,</hi> or for <hi>fear</hi> of great Men had been <hi>engaged</hi>) there was no <hi>certainty</hi> in the <hi>Law,</hi> that they scorned to administer Justice to the People; they cast into Prison many of the King's faithful Sub<g ref="char:EOLhyphen"/>jects, like <hi>Slaves,</hi> for no real fault in the World; where, with Grief, Hunger, or the excessive weight and burthen of their Chains, they died; they <hi>extorted</hi> at their Pleasure infinite Sums of Mony for their Ransoms, by reason whereof they contracted the irreconcileable Hatred, and dreadful Imprecations of all Men, as if they had obtained such an <hi>incommunicable</hi> Priviledge by the <hi>detestable</hi> Charter of <hi>Non obstante, That they might at their own Lust be <hi>free</hi> from all <hi>Laws</hi> both <hi>humane</hi> and <hi>divine;</hi>
+                  </hi> at last, not<g ref="char:EOLhyphen"/>withstanding some of them absconded, yet by Judgment of <hi>Par<g ref="char:EOLhyphen"/>liament,</hi> all (except <hi>John Mettingham</hi> and <hi>Elias Beckingham,</hi> who are named for their Honour) were condemned, some to <hi>Impri<g ref="char:EOLhyphen"/>sonment,</hi> others to <hi>Banishment,</hi> or <hi>Confiscation</hi> of their <hi>Estates,</hi> and none escaped without <hi>grievous</hi> Fines, and the <hi>loss</hi> of their <hi>Offices.</hi>
+               </p>
+               <p n="4">
+                  <note place="margin">
+                     <p>Cook's 3 Instit. <hi>fol.</hi> 223. Rot. Parl. <hi>Anno</hi> 24 <hi>E.</hi> 3. <hi>p.</hi> 3. <hi>m</hi> 2. dorso. Rot. Pat. <hi>An.</hi> 25. <hi>E.</hi> 3. <hi>p.</hi> 1. <hi>m.</hi> 7.</p>
+                     <p>Quia praedictus Willielmus de Thorp <hi>Sacramentum</hi> Do<g ref="char:EOLhyphen"/>mini Regis quod er<g ref="char:EOLhyphen"/>ga <hi>Populum</hi> habuit custodiendum fregit maliciosè, fal<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>è, &amp; <hi>rebellitèr</hi> in quantum in ipso fuit, &amp; ex causis supradictis per ipsum Willielmum (ut praedictum est) expressè cog<g ref="char:EOLhyphen"/>nitis <hi>suspendatur.</hi> Et quod omnia Terrae &amp; Tenemeta, Bona &amp; Catalla sua Domino Regiremaneant <hi>forisfacta.</hi>
+                     </p>
+                  </note>4. In the 24 <hi>E.</hi> 3. Sir <hi>William Thorpe, Chief</hi> Justice of the <hi>King</hi>'s Bench, was <hi>indicted</hi> before the <hi>Iustices</hi> of <hi>Oyer</hi> and <hi>Terminer,</hi> and found <hi>guilty,</hi> and afterwards the <hi>Judgment</hi> was confirmed in <hi>Parliament,</hi> which was, <hi>That this Sir</hi> William <hi>having maliciously and falsely, and rebelliously, as much as in him lay, broken the King's Oath which he had the keeping of towards the <hi>People,</hi> he was ad<g ref="char:EOLhyphen"/>judged to be <hi>hang'd,</hi>
+                  </hi> but afterwards paying a great Fine to the King, he procur'd his Pardon.</p>
+               <p n="5">5. The last <hi>Instance</hi> I shall give, is the <hi>Case</hi> of Sir <hi>Richard Empson,</hi> who was a <hi>Lawyer,</hi> and <hi>Privy-Counsellour</hi> to <hi>Hen.</hi> 7. he was <hi>indicted</hi> in the first Year of King <hi>Henry</hi> the 8th,<note place="margin">
+                     <p>Anderson<hi>'s</hi> I <hi>Rep. Case</hi> 201. fol. 156, 157, 158.</p>
+                     <p>Deum prae Oculis non habens.</p>
+                     <p>Ut Filius Diabolicus.</p>
+                     <p>Ut ipse magis sin<g ref="char:EOLhyphen"/>gulates favores dicti nuper Regis adhiber. unde magnat. fieri potuisset, ac totum Regnum Angliae se<g ref="char:EOLhyphen"/>cundum ejus Volun<g ref="char:EOLhyphen"/>tatem gubernaret. <hi>f.</hi> 156. Fal<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ò, decep<g ref="char:EOLhyphen"/>tive, &amp; proditorie, Legem Angliae sub<g ref="char:EOLhyphen"/>veriens, diversos Li<g ref="char:EOLhyphen"/>geosi, sius nuper Re<g ref="char:EOLhyphen"/>gis ex sua falsa covina &amp; subtil. ingenio contra communem Legem Regni Angliae de diversis Feloniis, Murdris, &amp; aliis Artic. &amp; Ossen. per ipsum Rich. tunc supposit. indict. fecit ac indict. procuravit, abbetavit &amp; excitavit.</p>
+                  </note>
+                  <hi>That he not having the the Fear of God before his Eyes, but like a <hi>Child</hi> of the <hi>Devil</hi> subtilly designing the Honour, Dignity, and Prosperity of the late King, as also the Prosperity of his Kingdom of</hi> England <hi>to <hi>destroy;</hi> and that he might accumulate to himself the particular Grace and Favour of the said late King, that he might be made a <hi>great Man</hi> and <hi>govern</hi> the <hi>whole</hi> Kingdom of</hi> England <hi>according to his Will <hi>and Pleasure, falsely, deceitfully, and</hi> traiterously <hi>sub<g ref="char:EOLhyphen"/>verting the Law of</hi>
+                  </hi> England, <hi>of his own covin and subtile Inventi<g ref="char:EOLhyphen"/>ons did cause, procure, abet and stir up several of the King's Leige <hi>People</hi> to be <hi>indicted</hi> for divers Felonies, Murders, and other Offences which he <hi>contrived,</hi> contrary to the <hi>Law</hi> of the <hi>Land:</hi> and
+<pb n="25" facs="tcp:50494:14"/> when they were so indicted, he committed them to Prison without any <hi>Process</hi> of <hi>Law,</hi> as to the Fleet,</hi> Counter, <hi>and the Tower of</hi> London, <hi>there to remain at his will, until they had paid divers great Fines and Ransoms for his own profit in</hi> Subversion of the Law, <hi>the great Damage and Impoverishment of the Subjects, by rea<g ref="char:EOLhyphen"/>son whereof the <hi>People</hi> being miserably harrassed and oppressed with such his <hi>Exactions,</hi> did murmur and repine against the late King,</hi>
+                  <note place="margin">Per quod plures &amp; diversi populi dicti nuper Reg<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s hijs gra<g ref="char:EOLhyphen"/>vaminibus &amp; indebi<g ref="char:EOLhyphen"/>tis exactionibus mul<g ref="char:EOLhyphen"/>tiplicitèr torqueban<g ref="char:EOLhyphen"/>tur in tant. quod Po<g ref="char:EOLhyphen"/>puli dicti nuper Re<g ref="char:EOLhyphen"/>gis versus i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>sum nu<g ref="char:EOLhyphen"/>per Regem multipli<g ref="char:EOLhyphen"/>citèr murmurabant &amp; malignabant in magnum periculum ipsius nuper Regis Regni sui Angliae ac ad sub<g ref="char:EOLhyphen"/>versionem Legum &amp; Consuetudinum ejusdem Regni.</note>
+                  <hi>to the <hi>manifest</hi> Danger of the said <hi>King</hi> and the <hi>Kingdom,</hi> and to the utter <hi>Subversion</hi> of the good <hi>Laws</hi> and <hi>Customs</hi> of the <hi>Realm;</hi>
+                  </hi> whereof being found <hi>guilty,</hi> Judgment of <hi>Death</hi> passed upon him,<note n="*" place="margin">
+                     <hi>Speed's Chron.</hi> fol. 903. N. 3.</note> and he was <hi>accordingly</hi> executed.</p>
+               <p>The <hi>Consideration</hi> of some of the forementioned <hi>Presidents,</hi> and others,<note place="margin">
+                     <hi>Anderson</hi>'s <hi>1<seg rend="sup">o</seg>
+                     </hi> Rep. ib.</note> printed in my Lord Chief Justice <hi>Anderson's Re<g ref="char:EOLhyphen"/>ports,</hi> were <hi>allowed</hi> to be <hi>sufficient</hi> Reasons and Authorities by Queen <hi>Elizabeth,</hi> why the <hi>Judges</hi> of the <hi>Common Pleas,</hi> refused to admit and comply with certain <hi>illegal</hi> Letters Patents which <hi>She</hi> had sent to them on the behalf of her <hi>Servant,</hi> one <hi>Richard Cavendish;</hi> they confess,<note place="margin">Ils doient confessè que ils ne ont per<g ref="char:EOLhyphen"/>formé les Command<g ref="char:EOLhyphen"/>ments; mes ils di<g ref="char:EOLhyphen"/>soint que ceo ne'st ascun offence ou contempt à sa Ma<g ref="char:EOLhyphen"/>jestie pur ceo que les Commandments fue<g ref="char:EOLhyphen"/>runt encounter <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>le Lev de Terr. En<g ref="char:EOLhyphen"/>quex Cases fuit dit que nul est lye de obeyer tiel Com<g ref="char:EOLhyphen"/>mandment. <hi>fol.</hi> 155.</note>
+                  <hi>That they had not obeyed the Queen's Commandment therein, nor <hi>could</hi> they; But they said, that it was <hi>no Offence</hi> nor in <hi>Contempt</hi> to her Majesty, because those <hi>Com<g ref="char:EOLhyphen"/>mands were contrary to the Law of the Land;</hi> In which Cases it was said, <hi>That no Man is bound to obey such Commands;</hi> and further they said, that the <hi>Queen</hi> her self was sworn, and had taken an <hi>Oath</hi> to keep the <hi>Laws,</hi> and so likewise had the <hi>Iudges;</hi> to break which <hi>voluntarily,</hi> as to what concern'd the <hi>Iudges,</hi> they answered, that if they had obeyed those Commands, they should do otherwise than what the <hi>Law</hi> could <hi>warrant</hi> them in; nay, directly against the Law, which would be contrary to the <hi>Oath</hi> they all had <hi>solemnly</hi> taken, in <hi>Offence</hi> to <hi>God,</hi> to her <hi>Majesty,</hi> to their <hi>Country,</hi> and Common Weal, in which they were born and had been bred; and if the Fear of God did not restrain them, yet the <hi>dreadful Examples</hi> of <hi>others,</hi> and the <hi>Punishments</hi> of such who had before offended against the Laws, would <hi>remember</hi> them, and keep them from doing any such thing, and for <hi>that</hi> the <hi>Queen</hi> and the <hi>Iudges</hi> were <hi>sworn,</hi> therefore they would not act <hi>according</hi> to her Letters Patens.</hi>
+               </p>
+               <p>The <hi>Solemnity</hi> of the Proceedings in this case was very <hi>great,</hi> and <hi>memorable.</hi>
+               </p>
+               <p n="1">1. The Queen commanded the Lord <hi>Chancellour,</hi>
+                  <note place="margin">
+                     <hi>Fol.</hi> 154.</note> Sir <hi>Christo<g ref="char:EOLhyphen"/>pher Wray,</hi> the <hi>Chief</hi> Justice of the King's Bench, and the <hi>Master</hi> of the Rolls to hear the <hi>Reasons</hi> of the Judges.</p>
+               <p n="2">2. Those <hi>Iudges</hi> were the Lord <hi>Anderson,</hi> Mr. Justice <hi>Mead,</hi> Mr. Justice <hi>Windham,</hi> and Mr. Justice <hi>Periam,</hi> Men
+<pb n="26" facs="tcp:50494:15"/> that were <hi>religious</hi> to the <hi>Church, <hi>loyal</hi>
+                  </hi> to the <hi>Queen</hi> and of <hi>excellent</hi> Judgment, Gravity, and Wisdom in their <hi>Profes<g ref="char:EOLhyphen"/>sions.</hi>
+               </p>
+               <p n="3">3. The Lord Chancellour having heard their <hi>Reasons,</hi> allowed of the Matters, and gave his <hi>Approbation</hi> of them.</p>
+               <p n="4">4. He having acquainted her Majesty with them, the <hi>Book</hi> says, <hi>She readily accepted of them.</hi>
+               </p>
+               <p>And now to draw to a Conclusion.</p>
+            </div>
+            <div type="conclusion">
+               <head>The CONCLUSION.</head>
+               <p>'TIS said, <hi>The King can do no Wrong,</hi> as I have before observed, and it is upon a great <hi>Reason</hi> of <hi>Law</hi> that it is so said; for the <hi>Wisdom</hi> of the <hi>Law</hi> hath provided a <hi>Council</hi> to advise and direct him for the better Pre<g ref="char:EOLhyphen"/>servation and Observance of his <hi>Coronation</hi> Oath.</p>
+               <p>Does the King resolve to declare his Will and Pleasure by his <hi>Charter?</hi> The Law hath taken care that the <hi>Secretary</hi> of <hi>State,</hi> the <hi>Masters</hi> of <hi>Request,</hi> the <hi>Attorny General,</hi> the <hi>Clark</hi> of the <hi>Signet,</hi> the <hi>Clerk</hi> of the <hi>Privy</hi> Seal, and the <hi>Lord Keeper,</hi> or <hi>Chancellour</hi> of <hi>England,</hi>
+                  <note place="margin">
+                     <hi>Ryley</hi>'s Plac. Parl. <hi>fol.</hi> 317. q'bien &amp; <hi>loiaument</hi> Conseil<g ref="char:EOLhyphen"/>lerer le Roy solonc vostre <hi>seu</hi> &amp; vostre <hi>petar.</hi>
+                  </note> successively, shall all have the Perusal and Examination thereof, who by their <hi>Oaths</hi> are obliged <hi>well</hi> and <hi>legally</hi> to <hi>Councel</hi> the King according to their <hi>Knowledg</hi> and their <hi>Power,</hi> and if any of these (who generally were Lawyers) did misguide the King in <hi>Point</hi> of <hi>Law,</hi> they were <hi>answerable</hi> therefore in the <hi>Supream</hi> Court of the <hi>Kingdom;</hi> I know very well, that in the <hi>Modern <hi>Oaths</hi>
+                  </hi> translated into <hi>Eng<g ref="char:EOLhyphen"/>lish,</hi> the word <hi>Loiaument,</hi> is rendred <hi>Truly,</hi> and tho I agree that it is the <hi>Duty</hi> of every Man in his Place and Office <hi>Truly</hi> to advise and serve the King; yet <hi>Loiaument</hi> legally to councel him, is a <hi>word</hi> of <hi>higher</hi> Import, aad larger Extent than the <hi>other,</hi> by how much he stands bound to make his Advice to be agreeable to the <hi>Rules</hi> of <hi>Law,</hi> and not the mere <hi>Will</hi> and <hi>Plea<g ref="char:EOLhyphen"/>sure</hi> of his <hi>Prince;</hi> and indeed no Man can be said <hi>Truly</hi> to serve the King, but he that <hi>serves</hi> him <hi>Loiaument,</hi> according to the <hi>known</hi> Law, and that Man is the only truly loyal <hi>Subject.</hi>
+               </p>
+               <p>For <hi>Bracton</hi> that famous Judg, in <hi>Henry</hi> the Third's time, had delivered it as a perpetual Rule both of Law and Truth; <hi>Lex facit Regem, &amp; quia per Legem factus est, Rex attr<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>at
+<pb n="27" facs="tcp:50494:15"/> ei,</hi> viz. <hi>Dominationem &amp; Potestatem, &amp; dignum est quod per ip<g ref="char:EOLhyphen"/>sum tueatur Lex cui Honorem tribuit &amp; Potestatem.</hi> Bracton <hi>lib.</hi> 1. <hi>cap.</hi> 8. f. 5. It being the greatest Honour and Priviledg of a King to rule his Subjects according to Law.</p>
+               <p>
+                  <hi>Seneca</hi> (a <hi>wise</hi> Man, <hi>Tutor</hi> to an <hi>Emperor,</hi>
+                  <note place="margin">Sen. de Benef.</note> and one that well <hi>understood</hi> what he wrote) brake forth into this passionate In<g ref="char:EOLhyphen"/>terrogation, <hi>Quid omnia possidentibus deest? ille qui verum dicat;</hi> what thing only do they want who possess all things? even (answers he) a <hi>Person <hi>that will speak down-right Truth, and give them honest Advertisements;</hi>
+                  </hi> and therefore the Lord Chan<g ref="char:EOLhyphen"/>cellour <hi>Bacon,</hi> among many other his excellent Councels to the late Duke of <hi>Bucks,</hi> urgeth this following Document,<note place="margin">Caballa <hi>of Letters</hi> fol. 41.</note> with a warmer Zeal than ordinary. <hi>In respect of the King your Master,</hi> (saith he) <hi>you must be wary that you give him <hi>true Information;</hi> and if the matter concern him in his <hi>Government,</hi> that you do not flatter him, if you do, you are as great a <hi>Traitor</hi> in the <hi>Court</hi> of <hi>Heaven,</hi> as <hi>he</hi> that <hi>draws</hi> his <hi>Sword</hi> against <hi>him.</hi>
+                  </hi>
+               </p>
+               <p>King <hi>James</hi> gives these <hi>sort</hi> of Persons no better <hi>Names,</hi>
+                  <note place="margin">In his Speech to the Parliament, <hi>1609,</hi> his Works, <hi>fol. 531.</hi>
+                  </note> than those of <hi>Vipers</hi> and <hi>Pests</hi> to their <hi>Prince</hi> and the <hi>Common Wealth;</hi> and that <hi>Glorious</hi> Martyr, King <hi>Charles</hi> the First, re<g ref="char:EOLhyphen"/>sembles them to <hi>base <hi>Flies</hi> which hang upon prosperous Princes,</hi>
+                  <note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <hi>Meditat.</hi> 27. <hi>Parag.</hi> 4.</note>
+                  <hi>as on Summer Fruits, but Adversity</hi> (saith he) <hi>like cold Weather, drives them away.</hi>
+               </p>
+               <p>In fine, it is, and hath been an <hi>eternal <hi>Maxime</hi>
+                  </hi> of <hi>Truth</hi> in the <hi>Common Laws</hi> of <hi>England—</hi> And that grounded upon no less <hi>Authority</hi> than the <hi>Divine Law</hi> of <hi>Almighty God,</hi>
+                  <note place="margin">Et coment que le Roi ad moults Pre<g ref="char:EOLhyphen"/>rogatives per le <hi>Com<g ref="char:EOLhyphen"/>mon Ley</hi> touchansa persone ses Biens ses dets Duties &amp; autres choses personal, <hi>uncore</hi> le <hi>Common Ley</hi> adtielment <hi>ad mesure ses Prerogatives</hi> que ils ne <hi>tolerount</hi> ne praejudi<g ref="char:EOLhyphen"/>caront le <hi>Inheritance</hi> de <hi>ascun.</hi> Plowden Com. <hi>fol.</hi> 236. <hi>a.</hi>
+                  </note>
+                  <hi>That the <hi>Law</hi> of the <hi>Kingdom</hi> hath so <hi>admeasured</hi> and assertained the <hi>Prerogative</hi> of our Kings, That <hi>it</hi> will not <hi>suffer</hi> or permit them to prejudice or <hi>wrong</hi> the <hi>Inheritance</hi> of <hi>any</hi> of their <hi>Subjects.</hi>
+                  </hi>
+               </p>
+               <p>And of this <hi>Opinion</hi> and <hi>Judgment</hi> was his late <hi>Majesty</hi> of bles<g ref="char:EOLhyphen"/>sed <hi>memory,</hi>
+                  <note place="margin">King <hi>Charles</hi> the First, hu Declara<g ref="char:EOLhyphen"/>tion to all his loving Subjects, published with the Advice of his Privy-Council, exact Collections of Declarations, <hi>pag. 28, 29.</hi>
+                  </note> when he so <hi>solemnly <hi>declared</hi>
+                  </hi> and <hi>published</hi> to all the <hi>World, <hi>That the</hi> Law <hi>is the</hi> Inheritance <hi>of every</hi> Subject, <hi>and the only</hi> Security <hi>he can have for his</hi> Life, <hi>or</hi> Estate, <hi>and the which being neglected or disesteemed</hi> (under what specious Shew so<g ref="char:EOLhyphen"/>ever) <hi>a great measure of</hi> Infelicity, <hi>if not an</hi> irreparable Confu<g ref="char:EOLhyphen"/>sion <hi>must without doubt fall upon them.</hi>
+                  </hi>
+               </p>
+               <p>
+                  <q>Therefore the main thing, next to Religion,<note place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>. 27. <hi>Medit.</hi>
+                     </note> on which a Prince's Prosperity will depend and move, is that of Civil Justice, wherein the settled Laws of these Kingdoms are the most excellent Rules a Prince can govern by; which by an admirable Temperament, give very much to Subjects Industry, Liberty, and happiness, <hi>and yet reserve enough to the Majesty, and Prerogative of any King, who owns his People as Subjects,
+<pb n="28" facs="tcp:50494:16"/> not as Slaves;</hi> whose Subjection, as it preserves their Property, Peace, and Safety, so it will never diminish a Prince's Rights, nor their ingenuous Liberties; which consists in the Enjoy<g ref="char:EOLhyphen"/>ment of the Fruits of their Industry, and <hi>the Benefit of <hi>those Laws,</hi> to which <hi>themselves</hi> have consented.</hi>
+                  </q>
+               </p>
+               <p>
+                  <q>The King's Prerogative (says this incomparable Prince a little after) is best shewed and excercised, in remitting, rather than exacting the Rigor of the Laws; there being nothing worse than legal Tyranny.</q>
+                  <hi>Where the word of a King is, there is Power,</hi> saith the Holy Scripture, which gives great weight and sanction to what this King of blessed Memory hath here in the same Meditation recommended, nor can I better tell how to conclude than with so sacred an Authority, which he prescribes as another Rule and Maxime to his present Majesty, and which as it was there particularly directed to him, so it ought to be written by no less than a Sun Beam to enlighten both the Prin<g ref="char:EOLhyphen"/>ces of this Age, and all succeeding Generations: his Words are these,</p>
+               <p>
+                  <q>Never repose so much upon any Man's single Councel, Fi<g ref="char:EOLhyphen"/>delity, and Discretion in managing Affairs of the first Mag<g ref="char:EOLhyphen"/>nitude, (that is, matters of Religion and Justice) as to create in your self, or others a diffidence of your own Judgment, which is likely to be always more constant and impartial to the Interest of your Crown and Kingdom than any Man's.</q>
+               </p>
+               <p>
+                  <q>Next beware of exasperating any Factions by the Crossness and Asperity of some Men's Passions, Humours or private Opi<g ref="char:EOLhyphen"/>nions imployed by you.</q>
+               </p>
+               <p>
+                  <q>The more conscious you shall be to your own Merits, upon your People, the more prone you will be to expect all Love and Loyalty from them; and inflict no Punishment upon them for former Miscarriages; you will have more inward Compla<g ref="char:EOLhyphen"/>cency in pardoning one, than in punishing a thousand.</q>
+               </p>
+               <p>
+                  <q>Nor would I have you to entertain any Aversation, or dis<g ref="char:EOLhyphen"/>like of Parliaments, which in their right Constitution, with Freedom and Honour, will never injure or diminish your Greatness; but will rather be as interchangings of Love, Loy<g ref="char:EOLhyphen"/>alty and Confidence, between a Prince and his People.</q>
+               </p>
+            </div>
+            <div type="postscript">
+               <pb n="29" facs="tcp:50494:16"/>
+               <head>POST-SCRIPT.</head>
+               <div type="oath">
+                  <head>The Oath of the Lord Mayor.</head>
+                  <p>YE shall swear, That ye shall <hi>well</hi> and <hi>lawfully</hi> serve the King's Majesty in the Office of Mayoralty in the City of <hi>London,</hi> and the same City ye shall <hi>surely</hi> and <hi>safe<g ref="char:EOLhyphen"/>ly</hi> keep to the behoof of his Highness, his Heirs, and lawful Successors, and the Profit of the King ye shall do; In all things that to you belongeth, and the Right of the King that to the Crown appertaineth in the same City of <hi>London, <hi>lawfully</hi>
+                     </hi> ye shall keep. Ye shall <hi>not consent to the decrease, ne concealment of the Rights, ne of the Franchises of the King;</hi> and where ye shall know the Rights of the King or of the Crown, be it in Lands, or in Rents, Franchises, or Suits concealed or withdrawn, to your Power ye shall do to repeal it; and if you may not, ye shall say it to the King, or to them of his Council, that you wete well say it to the King. <hi>Also lawfully and right<g ref="char:EOLhyphen"/>fully ye shall intreat the People of your Bailwick, and Right shall ye do to every one, as well to Strangers as others, to poor as to rich, in that belongeth you to do, and that for High<g ref="char:EOLhyphen"/>ness, ne for Riches, for Gift, ne for Behest, for Favour, ne for Hate, Wrong shall ye do to no Man,</hi> ne nothing shall ye take, <hi>by which the King shall leese, or Right be disturbed or letted;</hi> and good Assise shall ye set upon Bread, [Wine] Ale, Fish, Flesh, Corn, and all other Victuails; Weights and Measures in the same City, ye shall do to be kept, and due Execution do upon the Defaults that thereof shall be found according to all the Statutes thereof made, not repealed, and in <hi>all other things that to a Mayor of the City of</hi> London <hi>belongeth to do, well and lawfully ye shall do and behave you:</hi> As God you help.</p>
+               </div>
+               <div type="oath">
+                  <head>The Oath of an Alderman.</head>
+                  <p>YE shall swear, That ye shall <hi>well</hi> and <hi>lawfully</hi> serve our So<g ref="char:EOLhyphen"/>veraign Lord the King in the City of <hi>London,</hi> in the Of<g ref="char:EOLhyphen"/>fice of Alderman, in the Ward of <hi>N—</hi> wherein ye shall be cho<g ref="char:EOLhyphen"/>sen Alderman, and every other Ward whereof ye shall be cho<g ref="char:EOLhyphen"/>sen Alderman hereafter; and <hi>lawfully ye shall entreat the Peo<g ref="char:EOLhyphen"/>ple of the same Ward of such things as to them appertaineth to do, for keeping of the City, and for maintaining of the Peace in the same; and the Laws and Franchises of this City, ye shall keep and maintain, within the City and without, after your wit and power;</hi> and attendant ye shall be to maintain the right of Orphans after the Laws and Usages of the same City; and ready ye shall be to come at the Summons and Warning of
+<pb n="30" facs="tcp:50494:17"/> the Mayor and Ministers of this City for the time being, to speed th'Assises, Pleas, and Judgments of the Hustings, and other needs of this City, if you be not let by the needs of the King, or by some other reasonable Cause; and <hi>good and lawful Coun<g ref="char:EOLhyphen"/>sel ye shall give for such things as touch the common Profit of the City;</hi> and ye shall sell no manner Victual by retail, as Bread, Ale, Wine, Flesh, ne Fish, by your Apprentices, Allowes, Servants, ne by any other way, ne Profit shall ye none take of any such manner Victual so sold during your Office. <hi>The Secrets of this Court ye shall keep, and not disclose any thing here spoken for the Common-wealth of this City,</hi> or that might hurt any Person or Brother of this said Court, unless it be spoken to your Brother, or to any other, which in your Con<g ref="char:EOLhyphen"/>science and Discretion ye shall think to be for the Common<g ref="char:EOLhyphen"/>wealth of this City; and <hi>well and lawfully ye shall behave you in the said Office, and in all other things touching the said City:</hi> As God you help.</p>
+               </div>
+               <div type="oath">
+                  <head>The Oath of the Sheriff.</head>
+                  <p>YE shall swear, That ye shall be good and true unto our Soveraign Lord the King of <hi>England,</hi> and unto his Heirs and Successors, and <hi>the Franchise of the City of</hi> London <hi>within and without ye shall save and maintain to your power;</hi> and ye shall <hi>well and lawfully</hi> keep the <hi>Shires</hi> of <hi>London</hi> and <hi>Middlesex,</hi> and <hi>th' Offices</hi> that to the same <hi>Shires</hi> appertain to be done <hi>well and lawfully ye shall do after your wit and power; and Right ye shall do as well to poor as rich, and good Custom you shall none break, ne evil Custom arrere;</hi> and the Assise of Bread, Ale, and all other Victuals within the Franchise of this City, and without, well and lawfully ye shall keep, and do to be kept; and the Judgments and Executions of your Court, ye shall not tarry without cause reasonable; <hi>ne Right shall you none disturb.</hi> The Writs that to you come touching the State and Franchise of this City, you shall not return till you have shewed them to the Mayor and the Council of this City for the time being, and of them have Advisement; and ready you shall be at reasonable warning of the Mayor, for keeping of the Peace, and maintain<g ref="char:EOLhyphen"/>ning the State of this City; and <hi>all other things</hi> that <hi>longen</hi> to your <hi>Office,</hi> and the <hi>keeping</hi> of the <hi>said Shires, lawfully you shall do, by you and yours, and the City you shall keep from harm after your Power, and the Shire of Middlesex;</hi> ne the Goal of <hi>Newgate</hi> you shall not let to farme: As God you help.</p>
+                  <div type="addition">
+                     <head>ADDITION.</head>
+                     <p>Ye shall also swear, That ye shall <hi>freely give all such Rooms and Offices of Serjeants</hi> and <hi>Yeomen</hi> as shall happen to be<g ref="char:EOLhyphen"/>come <hi>void</hi> during the time ye shall remain in the <hi>Office</hi> of <hi>Shrievalty,</hi> to such <hi>apt</hi> and <hi>able Person</hi> or <hi>Persons</hi> as shall be
+<pb n="31" facs="tcp:50494:17"/> by you nominated to the Lord Mayor and Court of Aldermen, and by them admitted, <hi>without any Mony or other Reward</hi> to be had, taken, or hoped for in respect thereof, according to the <hi>Act of Common Council</hi> made and provided in that behalf, the <hi>nine and twentieth</hi> day of <hi>April,</hi> in the <hi>six and twentieth</hi> Year of the Reign of our Sovereign Lady Queen <hi>Elizabeth,</hi> &amp;c. As God you help.</p>
+                  </div>
+               </div>
+               <div type="oath">
+                  <head>The Oath of the Common Clerk, or Town-Clerk.</head>
+                  <p>YE shall swear, That you shall be good and true to our So<g ref="char:EOLhyphen"/>veraign Lord the King, and to his Heirs and lawful Suc<g ref="char:EOLhyphen"/>cessors; and the <hi>City of</hi> London, <hi>and the Liberties and Fran<g ref="char:EOLhyphen"/>chises of the same, to your Power ye shall maintain and defend;</hi> and the Councel of the said City ye shall keep, and the Harm of the same ye shall not know, but ye shall open it unto the Mayor and Aldermen of the said City for the time being; and attendant ye shall be upon the Mayor of the said City for the time being; and ready ye shall be at all times to come at the warning of the said Mayor, but yf you be letted about the business of this City, or by some other reasonable cause. Also resiant and dwelling ye shall be within the City during your Office, and <hi>all Pleas of Hustings, and all other Pleas and Records that to you belongeth to enter, ye shall truly enroll and enter; and all things that cometh to your keeping, as well Records as other things of the City, ye shall do your diligence safely to keep; ye shall shew, ne deliver no Record, nor other Mynument of the City, whereby the City might be hurt,</hi> nor no Record that toucheth the Right of any Person, ye shall bide, conceal, ne deny; and good Counsel af<g ref="char:EOLhyphen"/>ter your Wit and Power ye shall give in all things touching the Weale of this City. Also ye shall keep no Clerk under you, but such as shall be able and admitted by the Mayor and Alder<g ref="char:EOLhyphen"/>men of the said City for the time being, and sworn before the said Mayor and Aldermen; nor any such Clerk remove without th'Assent of the said Mayor and Aldermen. Also ye shall swear, That you shall take no Money, Reward, nor Gift of any Per<g ref="char:EOLhyphen"/>son for any matter to be moved, or the which shall hang before the Mayor, Aldermen, or Sheriffs, or before the Mayor of this City of <hi>London</hi> for the time being. Also ye shall take no man<g ref="char:EOLhyphen"/>ner Money, nor other Reward for any Matter or Cause which shall be moved, or hang in any Court of this City, wherein by reason of your Office, ye shall have any Authority or Power, except only the Fees to your Office of <hi>old times due, used and accustomed.</hi> Also ye shall bear and pay all manner Taxes and all other Charges to you to be laid within this City, like as Ci<g ref="char:EOLhyphen"/>tizens of the same City shall do for their part during your Office; and <hi>in all other things to your Office appertaining, well and lawfully ye shall behave you:</hi> As God you help.</p>
+               </div>
+               <div type="oath">
+                  <pb n="32" facs="tcp:50494:18"/>
+                  <head>The Oath of the Common Serjeant.</head>
+                  <p>YE shall swear, That ye shall <hi>well</hi> and <hi>lawfully serve the Ci<g ref="char:EOLhyphen"/>ty of</hi> London <hi>in the Office of Common Serjeant; and the Laws, Vsages and Franchise of the same City, ye shall keep and defend, within the City and without, after your Wit and Power;</hi> and the right of Orphans of this City ye shall pursue, save and maintain; and <hi>good and lawful Councels ye shall give in all things touching the common profit of this City;</hi> and the Councel of the same City ye shall keep; and the common harm of this City ye shall not know, but you shall after your Power let it, or give it in knowledg to the Council of this City; and at<g ref="char:EOLhyphen"/>tendant ye shall be on the Mayor, Aldermen and Commons, for causes and needs of this City, at all times when ye shall be requi<g ref="char:EOLhyphen"/>red and charged, and <hi>in all Places where need is, lawfully to shew and declare, and attendantly pursue for the common profit of this City.</hi> Also ye shall swear, That you shall take no Money, Reward, nor Gift of any Person for any Matter to be moved, the which shall hang before the Mayor, Aldermen or Sheriffs, or before the Mayor of the City of <hi>London</hi> for the time being. Also ye shall take no manner Money, nor other Re<g ref="char:EOLhyphen"/>ward for any Matter or Cause which shall be moved or hang in any Court of this City, wherein by reason of your Office ye shall have any Authority or Power, except only the Fees to your Office, of old time due, used and accustomed. Also ye shall bear and pay all manner Taxes, and all other Charges to you to be layed within this City, like as Citizens of the same City shall do for their part, during your Office: As God you help.</p>
+               </div>
+               <div type="oath">
+                  <head>The Oath of them that be of the Common-Council.</head>
+                  <p>YE shall swear, That ye shall be true to our Soveraign Lord the King, his Heirs and lawful Successors, and readily come when you be summoned to the Common-Council of this City, but yf you be reasonably excused; and <hi>good and true Councel ye shall give in all things touching the Common-Weal of this City after your Wit and Cunning;</hi> and that for favour of any Man, ye shall maintain no singular Profit against the common Pro<g ref="char:EOLhyphen"/>fit of this City: And after that you be come to the Common Council, <hi>ye shall not from thence depart</hi> till the Common Coun<g ref="char:EOLhyphen"/>cil be ended, without a reasonable cause, or else by the Mayor's Licence; and also that all secret things that be spoken or said in the Common Council, the which ought to be kept secret, ye shall in no wise disclose: As God you help.</p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>The Reader is desired to amend these <hi>Errata</hi> of the Press, or what other he may meet with.</head>
+            <p>Folio 2. Line 7. for <hi>sustinet,</hi> read <hi>sustine.</hi> l. 21. r. <hi>solemnly.</hi> fol. 5. l. 41. for <hi>Vicecomita<g ref="char:EOLhyphen"/>tum,</hi> r. <hi>Vicecomites.</hi> fol. 16. in Marg. l. 16. r. <hi>mischeningas.</hi> fol. 20. l. 19. f. <hi>he,</hi> r. <hi>the.</hi> in Marg. l. 12. <hi>Ascun,</hi> r. <hi>ascun.</hi> fol. 23. l. 1. <hi>vitali,</hi> r. <hi>vitalis.</hi> l. 27. and 29. f. <hi>Barthonia,</hi> r, <hi>Bathonia,</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
